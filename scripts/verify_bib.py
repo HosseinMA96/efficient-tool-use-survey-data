@@ -22,7 +22,11 @@ NS = {"a": "http://www.w3.org/2005/Atom"}
 
 
 def norm(s):
+    s = re.sub(r"\\['`^\"~=.]", "", s)  # LaTeX accent commands
+    s = s.replace("\\i", "i")  # dotless i in LaTeX accents, e.g. Sur{\\'\\i}s
+    s = s.replace("{", "").replace("}", "")
     s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
     s = re.sub(r"\\[a-zA-Z]+\s*|[{}$\\]", " ", s)
     return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
 
@@ -65,6 +69,10 @@ def fetch_arxiv(batch):
             if err.code not in (301, 429, 503) or attempt == 5:
                 raise
             time.sleep(60 * (attempt + 1))
+        except urllib.error.URLError:  # transient DNS or network failure
+            if attempt == 5:
+                raise
+            time.sleep(30)
     for e in ET.fromstring(xml).findall("a:entry", NS):
         aid = re.search(r"(\d{4}\.\d{4,5})", e.find("a:id", NS).text).group(1)
         title = " ".join(e.find("a:title", NS).text.split())

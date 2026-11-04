@@ -2,7 +2,7 @@
 
 Supporting data for the survey *Efficient Tool Use for Agentic AI: A Survey and an Analytical Cost
 Model for Tool-Using LLM Agents* (H. Mohasel Arjomandi, preprint, November 2026).
-Survey cutoff: October 31, 2026.
+Survey cutoff: October 31, 2026. Archived version: [10.5281/zenodo.23938631](https://doi.org/10.5281/zenodo.23938631).
 
 This repository contains the literature harvest and screening sheet, the coverage-check decisions,
 the full-text benchmark audit, the outputs of the trace consistency check and catalog sweep, and the
@@ -68,4 +68,7 @@ Scripts: MIT. Data in `data/`: CC BY 4.0. See `LICENSE`. Third-party datasets ke
 
 ## Citation
 
-Please cite the survey (arXiv identifier to be added) and this repository via its Zenodo DOI.
+Please cite the survey (arXiv identifier to be added) and this repository:
+
+H. Mohasel Arjomandi, *Data and Scripts for "Efficient Tool Use for Agentic AI"*, version 1.0, Zenodo, 2026.
+DOI: [10.5281/zenodo.23938631](https://doi.org/10.5281/zenodo.23938631)
