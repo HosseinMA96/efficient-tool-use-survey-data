@@ -1,0 +1,87 @@
+== Uncached, T=20 (Table II) ==
+Scenario A: base 2.948M  T*=227.7
+   retrieval        0.408M  -86.2%
+   filtering        2.762M  -6.3%
+   halve_same_work  1.468M  -50.2%
+   halve_half_work  1.414M  -52.0%
+Scenario B: base 2.078M  T*=2.4
+   retrieval        1.989M  -4.3%
+   filtering        0.216M  -89.6%
+   halve_same_work  0.988M  -52.5%
+   halve_half_work  0.529M  -74.5%
+
+== Prefix caching (kappa=0.10, omega=0.25), T=20 ==
+Scenario A: base 0.477M equiv (-83.8% vs uncached)
+   retrieval        0.077M  -83.8%
+   filtering        0.437M  -8.4%
+   halve_same_work  0.328M  -31.3%
+   retrieval, cache invalidated each turn 0.466M  -2.3%
+   new-token (write) share of cached cost: 42%
+Scenario B: base 0.439M equiv (-78.9% vs uncached)
+   retrieval        0.425M  -3.2%
+   filtering        0.038M  -91.2%
+   halve_same_work  0.318M  -27.5%
+   retrieval, cache invalidated each turn 2.443M  +456.7%
+   new-token (write) share of cached cost: 57%
+Cache horizon T_kappa = 2(1+omega)/kappa + 2 = 27
+   kappa=0.1, omega=0.25: T_kappa=27
+   kappa=0.1, omega=0.0: T_kappa=22
+   kappa=0.25, omega=0.0: T_kappa=10
+   kappa=0.5, omega=0.0: T_kappa=6
+
+== Output and reasoning tokens (gamma = c_out/c_in) ==
+   gamma=4 b=    0 A uncached: output share 1%
+   gamma=4 b=    0 A cached  : output share 3%
+   gamma=4 b=    0 B uncached: output share 1%
+   gamma=4 b=    0 B cached  : output share 4%
+   gamma=4 b= 1000 A uncached: output share 3%
+   gamma=4 b= 1000 A cached  : output share 17%
+   gamma=4 b= 1000 B uncached: output share 4%
+   gamma=4 b= 1000 B cached  : output share 18%
+   gamma=4 b= 3000 A uncached: output share 8%
+   gamma=4 b= 3000 A cached  : output share 35%
+   gamma=4 b= 3000 B uncached: output share 11%
+   gamma=4 b= 3000 B cached  : output share 37%
+   gamma=5 b=    0 A uncached: output share 1%
+   gamma=5 b=    0 A cached  : output share 4%
+   gamma=5 b=    0 B uncached: output share 1%
+   gamma=5 b=    0 B cached  : output share 4%
+   gamma=5 b= 1000 A uncached: output share 4%
+   gamma=5 b= 1000 A cached  : output share 20%
+   gamma=5 b= 1000 B uncached: output share 5%
+   gamma=5 b= 1000 B cached  : output share 21%
+   gamma=5 b= 3000 A uncached: output share 10%
+   gamma=5 b= 3000 A cached  : output share 40%
+   gamma=5 b= 3000 B uncached: output share 13%
+   gamma=5 b= 3000 B cached  : output share 42%
+
+== Cost per success: break-even success ratio p'/p = 1 - f ==
+   saving 86%: pays off iff p'/p > 0.14
+   saving 50%: pays off iff p'/p > 0.50
+   saving 30%: pays off iff p'/p > 0.70
+   saving 6%: pays off iff p'/p > 0.94
+
+== Heavy-tailed results: Monte Carlo, T=20, mean r=1000 (100k episodes) ==
+   sigma=0.0 results only : p10=1.00 p50=1.00 p90=1.00 p99=1.00
+   sigma=0.0 incl. a=200  : p10=1.00 p50=1.00 p90=1.00 p99=1.00
+   sigma=1.0 results only : p10=0.65 p50=0.94 p90=1.42 p99=2.13
+   sigma=1.0 incl. a=200  : p10=0.70 p50=0.95 p90=1.35 p99=1.95
+   sigma=1.5 results only : p10=0.44 p50=0.82 p90=1.71 p99=3.78
+   sigma=1.5 incl. a=200  : p10=0.53 p50=0.85 p90=1.59 p99=3.32
+   sigma=2.0 results only : p10=0.26 p50=0.63 p90=1.90 p99=6.47
+   sigma=2.0 incl. a=200  : p10=0.38 p50=0.69 p90=1.75 p99=5.56
+   one 50k-token result at turn 2 of 20 adds 900000 tokens
+
+== Fig. 2 series (uncached), T*: A=227.7 B=2.4 ==
+   T= 5 A=0.692 Astat=0.680 B=0.137 Bstat=0.035
+   T=10 A=1.414 Astat=1.360 B=0.529 Bstat=0.070
+   T=15 A=2.166 Astat=2.040 B=1.176 Bstat=0.105
+   T=20 A=2.948 Astat=2.720 B=2.078 Bstat=0.140
+   T=25 A=3.760 Astat=3.400 B=3.235 Bstat=0.175
+   T=30 A=4.602 Astat=4.080 B=4.647 Bstat=0.210
+   T=35 A=5.474 Astat=4.760 B=6.314 Bstat=0.245
+   T=40 A=6.376 Astat=5.440 B=8.236 Bstat=0.280
+   T=45 A=7.308 Astat=6.120 B=10.413 Bstat=0.315
+   T=50 A=8.270 Astat=6.800 B=12.845 Bstat=0.350
+   T=55 A=9.262 Astat=7.480 B=15.532 Bstat=0.385
+   T=60 A=10.284 Astat=8.160 B=18.474 Bstat=0.420

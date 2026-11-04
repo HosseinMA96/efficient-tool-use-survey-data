@@ -1,0 +1,121 @@
+n_comp	year	arxiv	title	decision	category
+5	2023	2307.13854	WebArena: A Realistic Web Environment for Building Autonomous Agents	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+4	2023	2303.08774	GPT-4 Technical Report	EXCLUDED	foundation LLMs, pre-training, alignment
+4	2022	2201.11903	Chain of Thought Prompting Elicits Reasoning in Large Language Models	EXCLUDED	reasoning and prompting
+4	2022	2207.01206	WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+4	2023	2302.01560	Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+4	2024	2407.18901	AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents	ADDED	in scope
+3	2019	1910.10683	Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer	EXCLUDED	foundation LLMs, pre-training, alignment
+3	2022	2203.02155	Training language models to follow instructions with human feedback	EXCLUDED	foundation LLMs, pre-training, alignment
+3	2021	2107.03374	Evaluating Large Language Models Trained on Code	EXCLUDED	reasoning and prompting
+3	2021	2110.14168	Training Verifiers to Solve Math Word Problems	EXCLUDED	reasoning and prompting
+3	2023	2303.11366	Reflexion: language agents with verbal reinforcement learning	EXCLUDED	reasoning and prompting
+3	2023	2304.03442	Generative Agents: Interactive Simulacra of Human Behavior	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+3	2023	2310.06770	SWE-bench: Can Language Models Resolve Real-World GitHub Issues?	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+3	2023	2308.11432	A survey on large language model based autonomous agents	EXCLUDED	surveys outside scope
+3	2022	2204.01691	Do As I Can, Not As I Say: Grounding Language in Robotic Affordances	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+3	2022	2206.07682	Emergent Abilities of Large Language Models	EXCLUDED	foundation LLMs, pre-training, alignment
+3	2022	2209.07753	Code as Policies: Language Model Programs for Embodied Control	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+3	2022	2201.08239	LaMDA: Language Models for Dialog Applications	EXCLUDED	foundation LLMs, pre-training, alignment
+3	2022	2207.05608	Inner Monologue: Embodied Reasoning through Planning with Language Models	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+3	2022	2201.07207	Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+3	2023	2306.06070	Mind2Web: Towards a Generalist Agent for the Web	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+3	2024	2404.07972	OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+3	2023	2301.12652	REPLUG: Retrieval-Augmented Black-Box Language Models	EXCLUDED	retrieval-augmented LMs and IR
+3	2023	2309.15817	Identifying the Risks of LM Agents with an LM-Emulated Sandbox	EXCLUDED	tool-use capability/safety/memory without efficiency claim
+3	2024	2402.02716	Understanding the planning of LLM agents: A survey	EXCLUDED	surveys outside scope
+3	2024	2405.14573	AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+3	2023	2310.04408	RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation	EXCLUDED	retrieval-augmented LMs and IR
+3	2021	2107.07566	Internet-Augmented Dialogue Generation	EXCLUDED	retrieval-augmented LMs and IR
+3	2025	2503.16416	Survey on Evaluation of LLM-based Agents	EXCLUDED	surveys outside scope
+3	2022	2203.05115	Internet-augmented language models through few-shot prompting for open-domain question answering	EXCLUDED	retrieval-augmented LMs and IR
+3	2023	2306.08640	AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn	EXCLUDED	tool-use capability/safety/memory without efficiency claim
+2	2019	1810.04805	BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2020	2005.14165	Language Models are Few-Shot Learners	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2002		Bleu: a Method for Automatic Evaluation of Machine Translation	EXCLUDED	text-generation metrics
+2	2017	1707.06347	Proximal Policy Optimization Algorithms	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2004		ROUGE: A Package for Automatic Evaluation of Summaries	EXCLUDED	text-generation metrics
+2	2023	2302.13971	LLaMA: Open and Efficient Foundation Language Models	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2019	1908.10084	Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2020	2005.11401	Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks	EXCLUDED	retrieval-augmented LMs and IR
+2	2022	2203.11171	Self-Consistency Improves Chain of Thought Reasoning in Language Models	EXCLUDED	reasoning and prompting
+2	2022	2204.14198	Flamingo: a Visual Language Model for Few-Shot Learning	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2009		The Probabilistic Relevance Framework: BM25 and Beyond	EXCLUDED	retrieval-augmented LMs and IR
+2	2025	2502.13923	Qwen2.5-VL Technical Report	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2017	1706.03741	Deep Reinforcement Learning from Human Preferences	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2002		Cumulated gain-based evaluation of IR techniques	EXCLUDED	retrieval-augmented LMs and IR
+2	2018	1809.09600	HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering	EXCLUDED	reasoning and prompting
+2	2021		A statistical interpretation of term specificity and its application in retrieval	EXCLUDED	retrieval-augmented LMs and IR
+2	2021	2109.01652	Finetuned Language Models Are Zero-Shot Learners	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2023	2303.17651	Self-Refine: Iterative Refinement with Self-Feedback	EXCLUDED	reasoning and prompting
+2	1999		Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in Reinforcement Learning	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	2022	2212.10560	Self-Instruct: Aligning Language Models with Self-Generated Instructions	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2020	2009.01325	Learning to summarize from human feedback	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2020	2002.08909	REALM: Retrieval-Augmented Language Model Pre-Training	EXCLUDED	retrieval-augmented LMs and IR
+2	2020		Explainable AI: A Review of Machine Learning Interpretability Methods	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2019	1909.08593	Fine-Tuning Language Models from Human Preferences	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2023	2305.16291	Voyager: An Open-Ended Embodied Agent with Large Language Models	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	2024	2405.15793	SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering	ADDED	in scope
+2	2020	2007.01282	Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering	EXCLUDED	retrieval-augmented LMs and IR
+2	2021	2110.08207	Multitask Prompted Training Enables Zero-Shot Task Generalization	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2021	2112.04426	Improving language models by retrieving from trillions of tokens	EXCLUDED	retrieval-augmented LMs and IR
+2	2021	2112.09118	Unsupervised Dense Information Retrieval with Contrastive Learning	EXCLUDED	retrieval-augmented LMs and IR
+2	2023	2310.08560	MemGPT: Towards LLMs as Operating Systems	EXCLUDED	tool-use capability/safety/memory without efficiency claim
+2	1999		What is Cognitive Science	EXCLUDED	cognitive science / animal tool use
+2	2022	2210.03350	Measuring and Narrowing the Compositionality Gap in Language Models	EXCLUDED	reasoning and prompting
+2	2019	1910.07113	Solving Rubik's Cube with a Robot Hand	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2020	2010.03768	ALFWorld: Aligning Text and Embodied Environments for Interactive Learning	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	2022	2208.03299	Few-shot Learning with Retrieval Augmented Language Models	EXCLUDED	retrieval-augmented LMs and IR
+2	2019	1907.11932	Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2023	2311.12983	GAIA: a benchmark for General AI Assistants	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	2019	1911.00172	Generalization through Memorization: Nearest Neighbor Language Models	EXCLUDED	retrieval-augmented LMs and IR
+2	2022	2209.11302	ProgPrompt: Generating Situated Robot Task Plans using Large Language Models	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	2019	1908.07125	Universal Adversarial Triggers for Attacking and Analyzing NLP	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2021	2112.00114	Show Your Work: Scratchpads for Intermediate Computation with Language Models	EXCLUDED	reasoning and prompting
+2	2023	2305.11738	CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing	EXCLUDED	tool-use capability/safety/memory without efficiency claim
+2	2023	2303.04671	Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models	EXCLUDED	tool-use capability/safety/memory without efficiency claim
+2	2022	2210.02406	Decomposed Prompting: A Modular Approach for Solving Complex Tasks	EXCLUDED	reasoning and prompting
+2	2024		VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	2024	2403.02691	InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents	EXCLUDED	tool-use capability/safety/memory without efficiency claim
+2	2022	2204.00598	Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language	EXCLUDED	tool-use capability/safety/memory without efficiency claim
+2	1980		Animal Tool Behavior: The Use and Manufacture of Tools by Animals	EXCLUDED	cognitive science / animal tool use
+2	2023	2303.11381	MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action	EXCLUDED	tool-use capability/safety/memory without efficiency claim
+2	2024	2403.03507	GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2023	2312.13771	AppAgent: Multimodal Agents as Smartphone Users	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	1960		Tools and human evolution.	EXCLUDED	cognitive science / animal tool use
+2	2023	2303.17491	Language Models can Solve Computer Tasks	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	2022	2205.09712	Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning	EXCLUDED	reasoning and prompting
+2	2022	2212.09597	Reasoning with Language Model Prompting: A Survey	EXCLUDED	reasoning and prompting
+2	2024	2403.07718	WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	2022	2203.11147	Teaching language models to support answers with verified quotes	EXCLUDED	retrieval-augmented LMs and IR
+2	2017		World of Bits: An Open-Domain Platform for Web-Based Agents	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	2022	2202.01771	Pre-Trained Language Models for Interactive Decision-Making	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	2026	2602.12670	SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks	ADDED	in scope
+2	2022	2212.12017	OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2022	2208.03188	BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2022	2205.11491	HyperTree Proof Search for Neural Theorem Proving	EXCLUDED	reasoning and prompting
+2	2024	2404.14294	A Survey on Efficient Inference for Large Language Models	EXCLUDED	surveys outside scope
+2	1995		Tools, language and cognition in human evolution	EXCLUDED	cognitive science / animal tool use
+2	2023	2311.05997	JARVIS-1: Open-World Multi-Task Agents With Memory-Augmented Multimodal Language Models	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	2023	2311.18760	TaskBench: Benchmarking Large Language Models for Task Automation	ADDED	in scope
+2	2024	2401.08092	A Survey of Resource-efficient LLM and Multimodal Foundation Models	EXCLUDED	surveys outside scope
+2	2024	2403.03186	Cradle: Empowering Foundation Agents towards General Computer Control	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	2023	2305.06849	WebCPM: Interactive Web Search for Chinese Long-form Question Answering	EXCLUDED	retrieval-augmented LMs and IR
+2	2022	2206.06336	Language Models are General-Purpose Interfaces	EXCLUDED	foundation LLMs, pre-training, alignment
+2	2023	2308.08239	MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation	EXCLUDED	tool-use capability/safety/memory without efficiency claim
+2	2022	2210.05359	Mind's Eye: Grounded Language Model Reasoning through Simulation	EXCLUDED	reasoning and prompting
+2	2024	2401.17167	Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios	ADDED	in scope
+2	2023		RestGPT: Connecting Large Language Models with Real-World Applications via RESTful APIs	ADDED	in scope
+2	2024	2401.12869	TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks	ADDED	in scope
+2	2024	2402.11451	SciAgent: Tool-augmented Language Models for Scientific Reasoning	EXCLUDED	tool-use capability/safety/memory without efficiency claim
+2	2023	2312.10908	CLOVA: A Closed-LOop Visual Assistant with Tool Usage and Update	EXCLUDED	tool-use capability/safety/memory without efficiency claim
+2	2023	2305.14323	ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models	EXCLUDED	tool-use capability/safety/memory without efficiency claim
+2	2023	2305.16896	MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting	EXCLUDED	reasoning and prompting
+2	2025	2503.15937	Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2	2022	2210.07382	Behavior Cloned Transformers are Neurosymbolic Reasoners	EXCLUDED	reasoning and prompting
+2	2023	2312.10332	ProTIP: Progressive Tool Retrieval Improves Planning	ADDED	in scope
+2		2510.12872	KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems	ADDED	in scope
+2		2501.04575	InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection	EXCLUDED	web/GUI/embodied/SE agents and benchmarks
+2		2603.07915	Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents	ADDED	in scope
+2		2605.08386	SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents	ADDED	in scope
+2		2410.21276	GPT-4o System Card	EXCLUDED	foundation LLMs, pre-training, alignment

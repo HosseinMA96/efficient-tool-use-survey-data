@@ -1,0 +1,32 @@
+BFCL pool: 1165 schemas, 178243 tokens, mean 153
+{"corpus": "tau-bench", "k": 3, "pad": 0, "Ns_med": 2854.0, "tstar_med": 29.25, "past_tstar": 0.018, "ret_med": 0.352, "fil_med": 0.147, "ret_wins": 0.934, "rule_acc": 0.953, "mean_acc": 0.96}
+{"corpus": "tau-bench", "k": 3, "pad": 25, "Ns_med": 7041.0, "tstar_med": 59.117, "past_tstar": 0.001, "ret_med": 0.634, "fil_med": 0.083, "ret_wins": 1.0, "rule_acc": 0.999, "mean_acc": 0.999}
+{"corpus": "tau-bench", "k": 3, "pad": 50, "Ns_med": 11151.0, "tstar_med": 88.467, "past_tstar": 0.0, "ret_med": 0.744, "fil_med": 0.058, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "tau-bench", "k": 3, "pad": 100, "Ns_med": 18789.0, "tstar_med": 143.204, "past_tstar": 0.0, "ret_med": 0.837, "fil_med": 0.038, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "tau-bench", "k": 3, "pad": 200, "Ns_med": 33565.0, "tstar_med": 248.704, "past_tstar": 0.0, "ret_med": 0.904, "fil_med": 0.022, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "tau-bench", "k": 3, "pad": 300, "Ns_med": 48810.0, "tstar_med": 357.811, "past_tstar": 0.0, "ret_med": 0.932, "fil_med": 0.016, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "tau-bench", "k": 3, "pad": 400, "Ns_med": 64134.0, "tstar_med": 467.372, "past_tstar": 0.0, "ret_med": 0.948, "fil_med": 0.012, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "tau-bench", "k": 3, "pad": 600, "Ns_med": 95981.0, "tstar_med": 695.081, "past_tstar": 0.0, "ret_med": 0.965, "fil_med": 0.008, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "tau-bench", "k": 3, "pad": 800, "Ns_med": 124892.0, "tstar_med": 901.513, "past_tstar": 0.0, "ret_med": 0.973, "fil_med": 0.006, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "tau-bench", "k": 3, "pad": 1000, "Ns_med": 154816.0, "tstar_med": 1115.177, "past_tstar": 0.0, "ret_med": 0.978, "fil_med": 0.005, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "tau-bench", "k": 3, "pad": 1165, "Ns_med": 181097.0, "tstar_med": 1302.83, "past_tstar": 0.0, "ret_med": 0.981, "fil_med": 0.004, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "SWE-agent", "k": 3, "pad": 25, "Ns_med": 4187, "tstar_med": 23.099, "past_tstar": 0.426, "ret_med": 0.319, "fil_med": 0.315, "ret_wins": 0.501, "rule_acc": 0.923, "mean_acc": 0.938}
+{"corpus": "SWE-agent", "k": 3, "pad": 50, "Ns_med": 8297, "tstar_med": 37.875, "past_tstar": 0.325, "ret_med": 0.51, "fil_med": 0.228, "ret_wins": 0.735, "rule_acc": 0.921, "mean_acc": 0.927}
+{"corpus": "SWE-agent", "k": 3, "pad": 100, "Ns_med": 15935, "tstar_med": 64.965, "past_tstar": 0.0, "ret_med": 0.678, "fil_med": 0.15, "ret_wins": 0.999, "rule_acc": 0.999, "mean_acc": 0.999}
+{"corpus": "SWE-agent", "k": 3, "pad": 200, "Ns_med": 30711, "tstar_med": 117.642, "past_tstar": 0.0, "ret_med": 0.807, "fil_med": 0.09, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "SWE-agent", "k": 3, "pad": 300, "Ns_med": 45956, "tstar_med": 171.895, "past_tstar": 0.0, "ret_med": 0.863, "fil_med": 0.064, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "SWE-agent", "k": 3, "pad": 400, "Ns_med": 61280, "tstar_med": 226.472, "past_tstar": 0.0, "ret_med": 0.894, "fil_med": 0.05, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "SWE-agent", "k": 3, "pad": 600, "Ns_med": 93127, "tstar_med": 339.866, "past_tstar": 0.0, "ret_med": 0.928, "fil_med": 0.034, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "SWE-agent", "k": 3, "pad": 800, "Ns_med": 122038, "tstar_med": 442.6, "past_tstar": 0.0, "ret_med": 0.944, "fil_med": 0.026, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "SWE-agent", "k": 3, "pad": 1000, "Ns_med": 151962, "tstar_med": 549.233, "past_tstar": 0.0, "ret_med": 0.955, "fil_med": 0.021, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+{"corpus": "SWE-agent", "k": 3, "pad": 1165, "Ns_med": 178243, "tstar_med": 642.603, "past_tstar": 0.0, "ret_med": 0.961, "fil_med": 0.018, "ret_wins": 1.0, "rule_acc": 1.0, "mean_acc": 1.0}
+tau-bench: flip found in 130/1980 episodes; T/T* at flip p10=0.62 p50=0.76 p90=0.91; within 0.67-1.5: 76.2%
+   exact flip Ns / mean-model flip Ns: p10=0.89 p50=1.00 p90=1.00; within +-10%: 81.8%
+SWE-agent: flip found in 1993/1993 episodes; T/T* at flip p10=0.37 p50=0.74 p90=1.10; within 0.67-1.5: 57.0%
+   exact flip Ns / mean-model flip Ns: p10=0.70 p50=1.00 p90=1.13; within +-10%: 50.1%
+tau-bench k=1: rule acc (pooled over catalog sizes) 0.999, mean-model acc 0.999
+tau-bench k=3: rule acc (pooled over catalog sizes) 0.996, mean-model acc 0.996
+tau-bench k=5: rule acc (pooled over catalog sizes) 0.988, mean-model acc 0.995
+SWE-agent k=1: rule acc (pooled over catalog sizes) 0.985, mean-model acc 0.986
+SWE-agent k=3: rule acc (pooled over catalog sizes) 0.984, mean-model acc 0.986
+SWE-agent k=5: rule acc (pooled over catalog sizes) 0.982, mean-model acc 0.988

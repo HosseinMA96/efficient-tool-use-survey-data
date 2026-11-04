@@ -1,0 +1,15 @@
+tool-titled records: 838
+efficiency-titled:   113 (13.5%)
+efficiency term in abstract: 493 (58.8%)
+
+year  all  eff-title  share   eff-abstract share
+2023    17      2   11.8%       9   52.9%
+2024    84     18   21.4%      38   45.2%
+2025   207     15    7.2%     107   51.7%
+2026   530     78   14.7%     339   64.0%
+
+quarterly (all, eff-title):
+(23Q1,1,0) (23Q2,4,0) (23Q3,4,1) (23Q4,8,1) (24Q1,19,4) (24Q2,17,5) (24Q3,16,4) (24Q4,32,5) (25Q1,26,3) (25Q2,51,4) (25Q3,59,3) (25Q4,71,5) (26Q1,108,16) (26Q2,173,29) (26Q3,174,19) (26Q4,75,14)
+
+title-positive also abstract-positive: 110/113
+observed agreement 0.539, Cohen's kappa 0.184

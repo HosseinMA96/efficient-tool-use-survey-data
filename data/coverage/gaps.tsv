@@ -1,0 +1,1398 @@
+n_comp	cites	year	arxiv	doi	title
+5	2422	2023	2307.13854		WebArena: A Realistic Web Environment for Building Autonomous Agents
+4	28212	2023	2303.08774		GPT-4 Technical Report
+4	23480	2022	2201.11903	10.52202/068431-1800	Chain of Thought Prompting Elicits Reasoning in Large Language Models
+4	1617	2022	2207.01206		WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents
+4	536	2023	2302.01560		Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents
+4	481	2024	2407.18901		AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents
+3	28196	2019	1910.10683		Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+3	25613	2022	2203.02155	10.52202/068431-2011	Training language models to follow instructions with human feedback
+3	12557	2021	2107.03374		Evaluating Large Language Models Trained on Code
+3	11854	2021	2110.14168		Training Verifiers to Solve Math Word Problems
+3	6441	2023	2303.11366	10.52202/075280-0377	Reflexion: language agents with verbal reinforcement learning
+3	6295	2023	2304.03442	10.1145/3586183.3606763	Generative Agents: Interactive Simulacra of Human Behavior
+3	4658	2023	2310.06770		SWE-bench: Can Language Models Resolve Real-World GitHub Issues?
+3	4306	2023	2308.11432	10.1007/s11704-024-40231-1	A survey on large language model based autonomous agents
+3	4082	2022	2204.01691		Do As I Can, Not As I Say: Grounding Language in Robotic Affordances
+3	3960	2022	2206.07682		Emergent Abilities of Large Language Models
+3	2209	2022	2209.07753	10.1109/ICRA48891.2023.10160591	Code as Policies: Language Model Programs for Embodied Control
+3	1943	2022	2201.08239		LaMDA: Language Models for Dialog Applications
+3	1789	2022	2207.05608		Inner Monologue: Embodied Reasoning through Planning with Language Models
+3	1789	2022	2201.07207		Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents
+3	1626	2023	2306.06070		Mind2Web: Towards a Generalist Agent for the Web
+3	1439	2024	2404.07972		OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+3	1165	2023	2301.12652		REPLUG: Retrieval-Augmented Black-Box Language Models
+3	746	2023	2309.15817		Identifying the Risks of LM Agents with an LM-Emulated Sandbox
+3	551	2024	2402.02716		Understanding the planning of LLM agents: A survey
+3	524	2024	2405.14573		AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents
+3	340	2023	2310.04408		RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation
+3	333	2021	2107.07566	10.18653/v1/2022.acl-long.579	Internet-Augmented Dialogue Generation
+3	262	2025	2503.16416		Survey on Evaluation of LLM-based Agents
+3	191	2022	2203.05115		Internet-augmented language models through few-shot prompting for open-domain question answering
+3	123	2023	2306.08640		AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn
+2	124845	2019	1810.04805	10.18653/v1/N19-1423	BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+2	65933	2020	2005.14165		Language Models are Few-Shot Learners
+2	35852	2002		10.3115/1073083.1073135	Bleu: a Method for Automatic Evaluation of Machine Translation
+2	33030	2017	1707.06347		Proximal Policy Optimization Algorithms
+2	22727	2004			ROUGE: A Package for Automatic Evaluation of Summaries
+2	22456	2023	2302.13971		LLaMA: Open and Efficient Foundation Language Models
+2	22042	2019	1908.10084	10.18653/v1/D19-1410	Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks
+2	20466	2020	2005.11401		Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+2	8146	2022	2203.11171		Self-Consistency Improves Chain of Thought Reasoning in Language Models
+2	6927	2022	2204.14198	10.52202/068431-1723	Flamingo: a Visual Language Model for Few-Shot Learning
+2	6885	2009		10.1561/1500000019	The Probabilistic Relevance Framework: BM25 and Beyond
+2	6460	2025	2502.13923		Qwen2.5-VL Technical Report
+2	6312	2017	1706.03741		Deep Reinforcement Learning from Human Preferences
+2	6067	2002		10.1145/582415.582418	Cumulated gain-based evaluation of IR techniques
+2	5972	2018	1809.09600	10.18653/v1/D18-1259	HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering
+2	5628	2021		10.1108/EB026526	A statistical interpretation of term specificity and its application in retrieval
+2	5579	2021	2109.01652		Finetuned Language Models Are Zero-Shot Learners
+2	5402	2023	2303.17651		Self-Refine: Iterative Refinement with Self-Feedback
+2	4555	1999		10.1016/S0004-3702(99)00052-1	Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in Reinforcement Learning
+2	3858	2022	2212.10560		Self-Instruct: Aligning Language Models with Self-Generated Instructions
+2	3629	2020	2009.01325		Learning to summarize from human feedback
+2	3596	2020	2002.08909		REALM: Retrieval-Augmented Language Model Pre-Training
+2	2917	2020		10.3390/e23010018	Explainable AI: A Review of Machine Learning Interpretability Methods
+2	2831	2019	1909.08593		Fine-Tuning Language Models from Human Preferences
+2	2761	2023	2305.16291		Voyager: An Open-Ended Embodied Agent with Large Language Models
+2	2339	2024	2405.15793		SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering
+2	2207	2020	2007.01282	10.18653/v1/2021.eacl-main.74	Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering
+2	2113	2021	2110.08207		Multitask Prompted Training Enables Zero-Shot Task Generalization
+2	2015	2021	2112.04426		Improving language models by retrieving from trillions of tokens
+2	1838	2021	2112.09118		Unsupervised Dense Information Retrieval with Contrastive Learning
+2	1752	2023	2310.08560		MemGPT: Towards LLMs as Operating Systems
+2	1737	1999			What is Cognitive Science
+2	1585	2022	2210.03350		Measuring and Narrowing the Compositionality Gap in Language Models
+2	1583	2019	1910.07113		Solving Rubik's Cube with a Robot Hand
+2	1519	2020	2010.03768		ALFWorld: Aligning Text and Embodied Environments for Interactive Learning
+2	1468	2022	2208.03299		Few-shot Learning with Retrieval Augmented Language Models
+2	1467	2019	1907.11932	10.1609/AAAI.V34I05.6311	Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment
+2	1386	2023	2311.12983		GAIA: a benchmark for General AI Assistants
+2	1217	2019	1911.00172		Generalization through Memorization: Nearest Neighbor Language Models
+2	1198	2022	2209.11302	10.1109/ICRA48891.2023.10161317	ProgPrompt: Generating Situated Robot Task Plans using Large Language Models
+2	1176	2019	1908.07125	10.18653/v1/D19-1221	Universal Adversarial Triggers for Attacking and Analyzing NLP
+2	1162	2021	2112.00114		Show Your Work: Scratchpads for Intermediate Computation with Language Models
+2	1069	2023	2305.11738		CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing
+2	920	2023	2303.04671		Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+2	844	2022	2210.02406		Decomposed Prompting: A Modular Approach for Solving Complex Tasks
+2	813	2024			VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks
+2	801	2024	2403.02691		InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents
+2	776	2022	2204.00598		Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language
+2	689	1980		10.5860/choice.49-1468	Animal Tool Behavior: The Use and Manufacture of Tools by Animals
+2	660	2023	2303.11381		MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action
+2	595	2024	2403.03507		GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection
+2	587	2023	2312.13771	10.1145/3706598.3713600	AppAgent: Multimodal Agents as Smartphone Users
+2	570	1960		10.1038/SCIENTIFICAMERICAN0960-62	Tools and human evolution.
+2	549	2023	2303.17491		Language Models can Solve Computer Tasks
+2	505	2022	2205.09712		Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning
+2	456	2022	2212.09597		Reasoning with Language Model Prompting: A Survey
+2	435	2024	2403.07718		WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?
+2	393	2022	2203.11147		Teaching language models to support answers with verified quotes
+2	382	2017			World of Bits: An Open-Domain Platform for Web-Based Agents
+2	356	2022	2202.01771	10.52202/068431-2262	Pre-Trained Language Models for Interactive Decision-Making
+2	345	2026	2602.12670		SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks
+2	311	2022	2212.12017		OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization
+2	309	2022	2208.03188		BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage
+2	284	2022	2205.11491		HyperTree Proof Search for Neural Theorem Proving
+2	278	2024	2404.14294		A Survey on Efficient Inference for Large Language Models
+2	256	1995		10.1007/BF02696116	Tools, language and cognition in human evolution
+2	243	2023	2311.05997	10.1109/TPAMI.2024.3511593	JARVIS-1: Open-World Multi-Task Agents With Memory-Augmented Multimodal Language Models
+2	200	2023	2311.18760		TaskBench: Benchmarking Large Language Models for Task Automation
+2	168	2024	2401.08092		A Survey of Resource-efficient LLM and Multimodal Foundation Models
+2	133	2024	2403.03186		Cradle: Empowering Foundation Agents towards General Computer Control
+2	123	2023	2305.06849		WebCPM: Interactive Web Search for Chinese Long-form Question Answering
+2	117	2022	2206.06336		Language Models are General-Purpose Interfaces
+2	111	2023	2308.08239		MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation
+2	107	2022	2210.05359		Mind's Eye: Grounded Language Model Reasoning through Simulation
+2	107	2024	2401.17167		Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios
+2	94	2023			RestGPT: Connecting Large Language Models with Real-World Applications via RESTful APIs
+2	89	2024	2401.12869		TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks
+2	88	2024	2402.11451		SciAgent: Tool-augmented Language Models for Scientific Reasoning
+2	60	2023	2312.10908	10.1109/CVPR52733.2024.01259	CLOVA: A Closed-LOop Visual Assistant with Tool Usage and Update
+2	58	2023	2305.14323		ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models
+2	47	2023	2305.16896		MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting
+2	40	2025	2503.15937		Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment
+2	14	2022	2210.07382		Behavior Cloned Transformers are Neurosymbolic Reasoners
+2	13	2023	2312.10332		ProTIP: Progressive Tool Retrieval Improves Planning
+2	0		2510.12872		KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems
+2	0		2501.04575		InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection
+2	0		2603.07915		Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents
+2	0		2605.08386		SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents
+2	0		2410.21276		GPT-4o System Card
+1	200850	2017	1706.03762		Attention is All you Need
+1	116149	2014	1409.1556		Very Deep Convolutional Networks for Large-Scale Image Recognition
+1	73352	2020	2010.11929		An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+1	59255	2021	2103.00020		Learning Transferable Visual Models From Natural Language Supervision
+1	46186	1998		10.1109/TNN.1998.712192	Reinforcement Learning: An Introduction
+1	40714	2021		10.1038/s41586-021-03819-2	Highly accurate protein structure prediction with AlphaFold
+1	37369	2021	2103.14030	10.1109/ICCV48922.2021.00986	Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+1	37322	2020	2006.11239		Denoising Diffusion Probabilistic Models
+1	34102	2015		10.1038/nature14236	Human-level control through deep reinforcement learning
+1	31238	2019			Language Models are Unsupervised Multitask Learners
+1	28754	2021	2112.10752	10.1109/CVPR52688.2022.01042	High-Resolution Image Synthesis with Latent Diffusion Models
+1	19608	2016		10.1038/nature16961	Mastering the game of Go with deep neural networks and tree search
+1	18069	1995		10.1145/219717.219748	WordNet: A Lexical Database for English
+1	17277	2013	1312.6199		Intriguing properties of neural networks
+1	16654	2023	2304.02643	10.1109/ICCV51070.2023.00371	Segment Anything
+1	14852	2020			5分で分かる!? 有名論文ナナメ読み：Jacob Devlin et al. : BERT : Pre-training of Deep Bidirectional Transformers for Language Understanding
+1	14194	2013	1312.5602		Playing Atari with Deep Reinforcement Learning
+1	13656	2021	2105.05233		Diffusion Models Beat GANs on Image Synthesis
+1	12570	2014			Thinking fast and slow.
+1	11794	2023	2304.07193		DINOv2: Learning Robust Visual Features without Supervision
+1	11790	2023	2304.08485		Visual Instruction Tuning
+1	11437	2023	2305.18290	10.52202/075280-2338	Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+1	11174	2004		10.1023/A:1022672621406	Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning
+1	10938	2019	1910.01108		DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter
+1	10641	2016	1602.01783		Asynchronous Methods for Deep Reinforcement Learning
+1	10352	2020	2009.03300		Measuring Massive Multitask Language Understanding
+1	10349	1974		10.1037/H0037350	Estimating causal effects of treatments in randomized and nonrandomized studies.
+1	9838	2025	2505.09388		Qwen3 Technical Report
+1	9652	2022	2204.06125		Hierarchical Text-Conditional Image Generation with CLIP Latents
+1	8837	2005			METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments
+1	8570	2022	2204.02311		PaLM: Scaling Language Modeling with Pathways
+1	8408	2022	2205.11916	10.52202/068431-1613	Large Language Models are Zero-Shot Reasoners
+1	8274	2012		10.1109/IROS.2012.6386109	MuJoCo: A physics engine for model-based control
+1	8216	2023		10.1016/j.lindif.2023.102274	ChatGPT for good? On opportunities and challenges of large language models for education
+1	8018	2009		10.1145/1553374.1553380	Curriculum learning
+1	7718	2021	2108.07258		On the Opportunities and Risks of Foundation Models
+1	7700	2020	2004.04906	10.18653/v1/2020.emnlp-main.550	Dense Passage Retrieval for Open-Domain Question Answering
+1	7672	1988		10.1021/ci00057a005	SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules
+1	7611	2022	2201.12086		BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
+1	6661	2021	2101.00190	10.18653/v1/2021.acl-long.353	Prefix-Tuning: Optimizing Continuous Prompts for Generation
+1	6597				OF THE AMERICAN STATISTICAL ASSOCIATION
+1	6574	2022	2202.03629	10.1145/3571730	Survey of Hallucination in Natural Language Generation
+1	6478	2017	1702.08734	10.1109/tbdata.2019.2921572	Billion-Scale Similarity Search with GPUs
+1	6445	1971		10.1016/0004-3702(71)90010-5	STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving
+1	6217	1985		10.1080/01621459.1986.10478354	Statistics and Causal Inference
+1	6203	2021	2102.05918		Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision
+1	5972	2025	2501.12948	10.1038/s41586-025-09422-z	DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning
+1	5829	2013			The ACL Anthology Network Corpus as a Resource for NLP-based Bibliometrics
+1	5718	2022	2210.08402		LAION-5B: An open large-scale dataset for training next generation image-text models
+1	5708	2023	2307.01952		SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis
+1	5455	2019		10.1162/tacl_a_00276	Natural Questions: A Benchmark for Question Answering Research
+1	5417	2023	2303.05499		Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
+1	5269	2023	2305.10601		Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+1	5222	2023	2303.18223	10.1007/s11704-026-60308-3	A Survey of Large Language Models
+1	5143	2022	2205.01068		OPT: Open Pre-trained Transformer Language Models
+1	4996	2016	1609.07843		Pointer Sentinel Mixture Models
+1	4982	2021	2108.07732		Program Synthesis with Large Language Models
+1	4703	2016	1612.00837	10.1007/s11263-018-1116-0	Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering
+1	4604	2019		10.1038/s41586-019-1724-z	Grandmaster level in StarCraft II using multi-agent reinforcement learning
+1	4582	2023	2303.12712		Sparks of Artificial General Intelligence: Early experiments with GPT-4
+1	4555	2022	2210.11416		Scaling Instruction-Finetuned Language Models
+1	4420	2023	2312.10997		Retrieval-Augmented Generation for Large Language Models: A Survey
+1	4317	2018		10.1126/science.aar6404	A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play
+1	4262	2021	2109.07958	10.18653/v1/2022.acl-long.229	TruthfulQA: Measuring How Models Mimic Human Falsehoods
+1	4172	2023	2305.06500		InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning
+1	4162	2024	2403.05530		Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context
+1	3994	2022	2203.15556	10.52202/068431-2176	Training Compute-Optimal Large Language Models
+1	3946	2022	2212.08073		Constitutional AI: Harmlessness from AI Feedback
+1	3933	2011		10.1109/TPAMI.2010.57	Product Quantization for Nearest Neighbor Search
+1	3732	2008		10.1109/MITP.2008.109	Resources
+1	3668	1995			BDI Agents: From Theory to Practice
+1	3647	2016	1606.06565		Concrete Problems in AI Safety
+1	3584	2023	2307.08691		FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning
+1	3538	2020	2012.07805		Extracting Training Data from Large Language Models
+1	3529	2022	2211.09800	10.1109/CVPR52729.2023.01764	InstructPix2Pix: Learning to Follow Image Editing Instructions
+1	3517	2003		10.3115/1075096.1075150	Accurate Unlexicalized Parsing
+1	3423	2023	2303.03378		PaLM-E: An Embodied Multimodal Language Model
+1	3356	2004		10.1037/0033-295X.111.4.1036	An integrated theory of the mind.
+1	3340	2002		10.12987/9780300235722	Groundwork for the Metaphysics of Morals
+1	3258	2024	2408.03326		LLaVA-OneVision: Easy Visual Task Transfer
+1	3155	2018		10.18653/v1/P18-1238	Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning
+1	3144	2022	2212.06817		RT-1: Robotics Transformer for Real-World Control at Scale
+1	3082	2023	2308.08155		AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation
+1	3068	2007		10.1075/LI.30.1.03NAD	A survey of named entity recognition and classification
+1	3046	2019	1905.00537		SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems
+1	2996	1995		10.3115/981658.981684	Unsupervised Word Sense Disambiguation Rivaling Supervised Methods
+1	2974	1994			Okapi at TREC-3
+1	2914	2020	2005.01643		Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems
+1	2913	2020	2002.10957		MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers
+1	2864	2022	2209.09513		Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering
+1	2863	2022	2210.17323		GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers
+1	2858	2019	1911.08265	10.1038/s41586-020-03051-4	Mastering Atari, Go, chess and shogi by planning with a learned model
+1	2753	2023	2308.00352		MetaGPT: Meta Programming for Multi-Agent Collaborative Framework
+1	2722	1973		10.1016/0010-0285(73)90004-2	Perception in chess
+1	2714	2022	2206.04615		Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models
+1	2675	2015			ALVINN, an autonomous land vehicle in a neural network
+1	2661	2017	1709.06560	10.1609/aaai.v32i1.11694	Deep Reinforcement Learning that Matters
+1	2621	2019	1909.10351	10.18653/v1/2020.findings-emnlp.372	TinyBERT: Distilling BERT for Natural Language Understanding
+1	2445	2016	1607.08822	10.1007/978-3-319-46454-1_24	SPICE: Semantic Propositional Image Caption Evaluation
+1	2433	2001	1301.2300	10.1145/3501714.3501736	Direct and Indirect Effects
+1	2393	2023	2302.12173	10.1145/3605764.3623985	Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection
+1	2390	2022	2210.09261		Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them
+1	2324	2017	1704.00051	10.18653/v1/P17-1171	Reading Wikipedia to Answer Open-Domain Questions
+1	2323	2016	1603.02199	10.1177/0278364917710318	Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection
+1	2305	2022	2202.12837	10.18653/v1/2022.emnlp-main.759	Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?
+1	2292	2022	2207.05221		Language Models (Mostly) Know What They Know
+1	2258	2019	1912.06680		Dota 2 with Large Scale Deep Reinforcement Learning
+1	2220	2023		10.1111/nyas.15007	Holistic Evaluation of Language Models
+1	2191	2023	2309.07864		The Rise and Potential of Large Language Model Based Agents: A Survey
+1	2160	2022	2207.04672		No Language Left Behind: Scaling Human-Centered Machine Translation
+1	2157	2023	2305.10355		Evaluating Object Hallucination in Large Vision-Language Models
+1	2126	2022	2206.14858		Solving Quantitative Reasoning Problems with Language Models
+1	2069	2023	2306.02858		Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding
+1	2060	2023	2306.00978	10.1145/3714983.3714987	AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration
+1	2050	2025	2504.10479		InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models
+1	2022	2023	2302.11382	10.64346/plop2023p05	A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT
+1	2006	2022	2205.10625		Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
+1	1974	2023	2305.13245		GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints
+1	1928				Improving Image Generation with Better Captions
+1	1911	2018	1801.07243	10.18653/v1/P18-1205	Personalizing Dialogue Agents: I have a dog, do you have pets too?
+1	1899	2020	2010.11251	10.1126/scirobotics.abc5986	Learning quadrupedal locomotion over challenging terrain
+1	1896	2023	2311.10122		Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
+1	1875	2021	2112.03857	10.1109/CVPR52688.2022.01069	Grounded Language-Image Pre-training
+1	1840	2020	2007.00808		Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval
+1	1839	2024	2412.05271		Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling
+1	1809	2018	1806.10293		QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation
+1	1777	2021	2104.08786	10.18653/v1/2022.acl-long.556	Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity
+1	1755	2024	2405.21075	10.1109/CVPR52734.2025.02245	Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
+1	1743	2023	2306.13549	10.1093/nsr/nwae403	A survey on multimodal large language models
+1	1737	2023	2302.00487	10.1109/TPAMI.2024.3367329	A Comprehensive Survey of Continual Learning: Theory, Method and Application
+1	1735	2017	1709.00103		Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning
+1	1730	2017	1705.00754	10.1109/ICCV.2017.83	Dense-Captioning Events in Videos
+1	1726	2021	2112.04359		Ethical and social risks of harm from Language Models
+1	1718	2019	1911.12543	10.1162/tacl_a_00324	How Can We Know What Language Models Know?
+1	1693	2021	2112.11446		Scaling Language Models: Methods, Analysis & Insights from Training Gopher
+1	1692	2011			The Winograd Schema Challenge
+1	1685	2011			Im2Text: Describing Images Using 1 Million Captioned Photographs
+1	1653	2022	2205.14217		Diffusion-LM Improves Controllable Text Generation
+1	1650	2002		10.1111/j.0006-341X.2002.00021.x	Principal Stratification in Causal Inference
+1	1646	2023	2301.00774		SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot
+1	1631	2016	1610.00633	10.1109/ICRA.2017.7989385	Deep reinforcement learning for robotic manipulation with asynchronous off-policy updates
+1	1629	2009		10.1177/1536867X0900900402	Cem: Coarsened Exact Matching in Stata
+1	1622	2022	2212.10511	10.18653/v1/2023.acl-long.546	When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories
+1	1612	1968		10.1080/14640746808400161	Reasoning about a Rule
+1	1586	2021	2102.08981	10.1109/CVPR46437.2021.00356	Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts
+1	1514	1983		10.1109/TPAMI.1983.4767370	A Maximum Likelihood Approach to Continuous Speech Recognition
+1	1479	2022	2212.10509		Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions
+1	1465	2023	2311.17005	10.1109/CVPR52733.2024.02095	MVBench: A Comprehensive Multi-modal Video Understanding Benchmark
+1	1426	2020		10.1038/s41586-020-2442-2	A mobile robotic chemist
+1	1426	2023	2304.05376	10.1038/s42256-024-00832-8	Augmenting large language models with chemistry tools
+1	1416	2021	2106.02034		DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification
+1	1406	2023	2312.02003	10.1016/j.hcc.2024.100211	A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly
+1	1387	2023	2307.05782	10.1007/978-981-96-6259-3	Large Language Models
+1	1386	2023	2306.14824		Kosmos-2: Grounding Multimodal Large Language Models to the World
+1	1365	1998		10.1007/10704656_11	Extracting Patterns and Relations from the World Wide Web
+1	1358	1960			Programs with common sense
+1	1350	2024	2408.06292		The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery
+1	1342	2019	1905.12616		Defending Against Neural Fake News
+1	1331	2025	2502.12110		A-MEM: Agentic Memory for LLM Agents
+1	1323	2019			design patterns elements of reusable object oriented software
+1	1317	2024	2402.01680		Large Language Model based Multi-Agents: A Survey of Progress and Challenges
+1	1306	2017	1705.02101	10.1109/ICCV.2017.563	TALL: Temporal Activity Localization via Language Query
+1	1297	2021	2104.07567	10.18653/v1/2021.findings-emnlp.320	Retrieval Augmentation Reduces Hallucination in Conversation
+1	1270	2024	2406.00515	10.1145/3747588	A Survey on Large Language Models for Code Generation
+1	1263	2019	1906.00300	10.18653/v1/P19-1612	Latent Retrieval for Weakly Supervised Open Domain Question Answering
+1	1239	2023	2308.10144		ExpeL: LLM Agents Are Experiential Learners
+1	1236	2003	1106.4869	10.1613/jair.1141	SHOP2: An HTN Planning System
+1	1232	2023	2309.01219	10.1162/coli.a.16	Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models
+1	1212	2022	2211.09527		Ignore Previous Prompt: Attack Techniques For Language Models
+1	1197	2012		10.7551/mitpress/7688.001.0001	The Soar Cognitive Architecture
+1	1190	2022	2205.06175		A Generalist Agent
+1	1187	2020	2004.13637	10.18653/v1/2021.eacl-main.24	Recipes for Building an Open-Domain Chatbot
+1	1176	2018		10.1126/scirobotics.aar7650	The grand challenges of Science Robotics
+1	1170	2022	2204.07705	10.18653/v1/2022.emnlp-main.340	Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks
+1	1162	2021	2110.07602		P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks
+1	1148	2021	2108.13264		Deep Reinforcement Learning at the Edge of the Statistical Precipice
+1	1142	2021	2106.07139	10.1016/j.aiopen.2021.08.002	Pre-Trained Models: Past, Present and Future
+1	1140	2023		10.1109/ICASSP49357.2023.10095889	CLAP Learning Audio Concepts from Natural Language Supervision
+1	1135	2022	2211.09085		Galactica: A Large Language Model for Science
+1	1133	2025	2506.13131		AlphaEvolve: A coding agent for scientific and algorithmic discovery
+1	1123	2024	2404.14469		SnapKV: LLM Knows What You are Looking for Before Generation
+1	1108	2023	2301.13188		Extracting Training Data from Diffusion Models
+1	1058	2023	2301.07093	10.1109/CVPR52729.2023.02156	GLIGEN: Open-Set Grounded Text-to-Image Generation
+1	1058	2022	2209.06794		PaLI: A Jointly-Scaled Multilingual Language-Image Model
+1	1057	2017			Generalization without Systematicity: On the Compositional Skills of Sequence-to-Sequence Recurrent Networks
+1	1041	2022	2202.07646		Quantifying Memorization Across Neural Language Models
+1	1041	2023	2307.16125		SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension
+1	1039	2019	1908.09355	10.18653/v1/D19-1441	Patient Knowledge Distillation for BERT Model Compression
+1	1025	2015		10.1017/CBO9781139025751.025	Causal Inference for Statistics, Social, and Biomedical Sciences: Instrumental Variables Analysis of Randomized Experiments with Two-Sided Noncompliance
+1	1008	2018	1805.01954	10.24963/ijcai.2018/687	Behavioral Cloning from Observation
+1	997	2022		10.1038/s41586-021-04301-9	Magnetic control of tokamak plasmas through deep reinforcement learning
+1	986	2023	2302.00923		Multimodal Chain-of-Thought Reasoning in Language Models
+1	985	2022	2212.10403		Towards Reasoning in Large Language Models: A Survey
+1	985	2023	2309.01029	10.1145/3639372	Explainability for Large Language Models: A Survey
+1	985	2024	2401.06209	10.1109/CVPR52733.2024.00914	Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs
+1	971	2022	2204.05999		InCoder: A Generative Model for Code Infilling and Synthesis
+1	963	2023	2304.11277		PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel
+1	952	2019	1905.13319	10.18653/v1/N19-1245	MathQA: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms
+1	949	2019	1911.02150		Fast Transformer Decoding: One Write-Head is All You Need
+1	945	2020		10.1146/annurev-control-100819-063206	Recent Advances in Robot Learning from Demonstration
+1	935	2021	2104.08773	10.18653/v1/2022.acl-long.244	Cross-Task Generalization via Natural Language Crowdsourcing Instructions
+1	926	2023	2305.14627		Enabling Large Language Models to Generate Text with Citations
+1	921	2017		10.1080/15472450.2017.1291351	Policy and society related implications of automated driving: A review of literature and directions for future research
+1	921	2023	2311.16922	10.1109/CVPR52733.2024.01316	Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding
+1	921	2023	2304.06718		Segment Everything Everywhere All at Once
+1	908	2023	2309.14525		Aligning Large Multimodal Models with Factually Augmented RLHF
+1	903	2018	1803.06643	10.18653/v1/N18-1059	The Web as a Knowledge-Base for Answering Complex Questions
+1	888	2011	1103.4601		Doubly Robust Policy Evaluation and Learning
+1	874	2023	2301.13848	10.1162/tacl_a_00632	Benchmarking Large Language Models for News Summarization
+1	862	2025	2504.19413		Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory
+1	860	2024	2410.10813		LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory
+1	851	2023	2310.12931		Eureka: Human-Level Reward Design via Coding Large Language Models
+1	845	2020	2005.00700	10.18653/v1/2020.findings-emnlp.171	UnifiedQA: Crossing Format Boundaries With a Single QA System
+1	839	2021		10.1016/j.eswa.2020.113679	Automatic text summarization: A comprehensive survey
+1	828	2019	1904.08980	10.1109/ICCV.2019.00942	Exploring the Limitations of Behavior Cloning for Autonomous Driving
+1	822	2016		10.2200/S00716ED1V04Y201604HLT033	Synthesis Lectures on Human Language Technologies
+1	820	2024	2402.02750	10.13140/RG.2.2.28167.37282	KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache
+1	810	2025	2503.13657		Why Do Multi-Agent LLM Systems Fail?
+1	806	2023	2304.14108		DataComp: In search of the next generation of multimodal datasets
+1	801	2022	2210.15097		Contrastive Decoding: Open-ended Text Generation as Optimization
+1	799	2019	1908.04319		Neural Text Generation with Unlikelihood Training
+1	799	2019	1909.07528		Emergent Tool Use From Multi-Agent Autocurricula
+1	795	2024		10.52202/079017-1601	SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering
+1	785	2017		10.18653/v1/W17-4770	chrF++: words helping character n-grams
+1	781	2024	2402.19473		Retrieval-Augmented Generation for AI-Generated Content: A Survey
+1	780	2015	1511.03722		Doubly Robust Off-policy Value Evaluation for Reinforcement Learning
+1	771	2023	2306.17582	10.1109/ACCESS.2024.3387941	ChatGPT for Robotics: Design Principles and Model Abilities
+1	757	2023	2310.14566	10.1109/CVPR52733.2024.01363	Hallusionbench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models
+1	755	2018		10.1111/AJPS.12357	How Conditioning on Posttreatment Variables Can Ruin Your Experiment and What to Do about It
+1	752	2021	2110.01691	10.1145/3491102.3517582	AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts
+1	747	2018	1806.07011	10.1109/CVPR.2018.00886	VirtualHome: Simulating Household Activities Via Programs
+1	744	2023	2305.13860		Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study
+1	743	2020	2007.00644		Measuring Robustness to Natural Distribution Shifts in Image Classification
+1	732	2024	2412.10302		DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding
+1	718	2009		10.1145/1665208.1665246	Gemini
+1	717	2005		10.1162/1064546053278973	The Development of Embodied Cognition: Six Lessons from Babies
+1	716	2011		10.1017/CBO9780511977244.026	The Cambridge Handbook of Intelligence: The Theory of Successful Intelligence
+1	712	2024	2401.10935		SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents
+1	708	2024	2401.01614		GPT-4V(ision) is a Generalist Web Agent, if Grounded
+1	708	2023	2309.05463		Textbooks Are All You Need II: phi-1.5 technical report
+1	699	2025	2506.07982		τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment
+1	695	2022	2209.14375		Improving alignment of dialogue agents via targeted human judgements
+1	692	2025	2504.12516		BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents
+1	691	2016	1604.00923		Data-Efficient Off-Policy Policy Evaluation for Reinforcement Learning
+1	682	2025			The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models
+1	680	2026	2601.11868		Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces
+1	670	1995			A Framework for Behavioural Cloning
+1	670	2025	2501.12326		UI-TARS: Pioneering Automated GUI Interaction with Native Agents
+1	662	2022		10.1126/science.ade9097	Human-level play in the game of Diplomacy by combining language models with strategic reasoning
+1	662	2010	1003.5956	10.1145/1935826.1935878	Unbiased offline evaluation of contextual-bandit-based news article recommendation algorithms
+1	652	2020	2004.06660	10.18653/v1/2020.acl-main.249	Weight Poisoning Attacks on Pretrained Models
+1	651	2025	2501.06322		Multi-Agent Collaboration Mechanisms: A Survey of LLMs
+1	647	2024	2407.11691	10.1145/3664647.3685520	VLMEvalKit: An Open-Source ToolKit for Evaluating Large Multi-Modality Models
+1	646	2024			Imitation Learning: A Survey of Learning Methods, Environments and Metrics
+1	641	2019	1910.07475	10.18653/v1/2020.acl-main.653	MLQA: Evaluating Cross-lingual Extractive Question Answering
+1	622	2012		10.1007/978-1-4614-3223-4_3	A Survey of Text Summarization Techniques
+1	607	2021	2103.04918	10.1109/tetci.2022.3141105	A Survey of Embodied AI: From Simulators to Research Tasks
+1	607	2018	1801.08163	10.1109/CVPR.2018.00592	DVQA: Understanding Data Visualizations via Question Answering
+1	606	2024	2411.10440	10.1109/ICCV51701.2025.00202	LlaVA-CoT: Let Vision Language Models Reason Step-By-Step
+1	605	2022	2212.10071		Large Language Models Are Reasoning Teachers
+1	605	2017		10.1145/3054912	Imitation Learning
+1	605	2018		10.18653/v1/P18-1128	The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing
+1	604	2025	2502.18864	10.1038/s41586-026-10644-y	Accelerating scientific discovery with Co-Scientist
+1	596	2025	2502.11089		Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention
+1	593	2020	2005.00181	10.1162/tacl_a_00369	Sparse, Dense, and Attentional Representations for Text Retrieval
+1	593	2023			Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V
+1	585	2020	2010.15980	10.18653/v1/2020.emnlp-main.346	Eliciting Knowledge from Language Models Using Automatically Generated Prompts
+1	584	2023	2306.14565		Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning
+1	583	2024	2402.00888	10.1145/3712001	Security and Privacy Challenges of Large Language Models: A Survey
+1	575	2023	2309.02427		Cognitive Architectures for Language Agents
+1	574	2022	2205.12548		RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning
+1	569	2025	2503.21776		Video-R1: Reinforcing Video Reasoning in MLLMs
+1	565	1996		10.1038/379249A0	Manufacture and use of hook-tools by New Caledonian crows
+1	565	2024	2407.01489		Agentless: Demystifying LLM-based Software Engineering Agents
+1	562	2023	2310.06694		Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
+1	555	2023	2312.02051	10.1109/CVPR52733.2024.01357	TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding
+1	552	2021	2104.06967	10.1145/3404835.3462891	Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling
+1	543	2023	2310.10158		Character-LLM: A Trainable Agent for Role-Playing
+1	542	2024	2410.09024		AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents
+1	527	2020	2106.15772	10.18653/v1/2020.acl-main.92	A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers
+1	524	2023	2302.03494		A Categorical Archive of ChatGPT Failures
+1	519	2021	2109.05052	10.18653/v1/2021.emnlp-main.565	Entity-Based Knowledge Conflicts in Question Answering
+1	519	2023	2306.09683		Scaling Open-Vocabulary Object Detection
+1	518	2023	2311.05608		FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts
+1	514	2024	2404.14618		Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing
+1	514	2023	2305.09781	10.1145/3620666.3651335	SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification
+1	501	2024	2406.02069		PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling
+1	501	2023	2303.10512		AdaLoRA: Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning
+1	500	2025	2510.04618		Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models
+1	499	2025	2504.08066		The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+1	487	2017	1710.10723	10.18653/v1/P18-1078	Simple and Effective Multi-Paragraph Reading Comprehension
+1	484	2022	2206.11795		Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos
+1	483	2022		10.1007/978-3-031-20080-9_42	Simple Open-Vocabulary Object Detection
+1	480	2024	2403.15388	10.1109/ICCV51701.2025.02122	LLaVA-Prumerge: Adaptive Token Reduction for Efficient Large Multimodal Models
+1	479	2023	2310.01377		ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback
+1	477	2024	2404.18930		Hallucination of Multimodal Large Language Models: A Survey
+1	475	2023	2310.03214		FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation
+1	466	2024	2410.05243		Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents
+1	465	2023	2306.02707		Orca: Progressive Learning from Complex Explanation Traces of GPT-4
+1	464	2010		10.1145/1806596.1806638	FlumeJava: easy, efficient data-parallel pipelines
+1	463	2021	2103.01913	10.1145/3404835.3463257	WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning
+1	461	2023	2301.07069		Prompting Large Language Model for Machine Translation: A Case Study
+1	460	2023	2305.14788		Adapting Language Models to Compress Contexts
+1	456	2025	2501.13956		Zep: A Temporal Knowledge Graph Architecture for Agent Memory
+1	454	2024	2407.08693		Robotic Control via Embodied Chain-of-Thought Reasoning
+1	453	2019	1912.09713		Measuring Compositional Generalization: A Comprehensive Method on Realistic Data
+1	450	2024	2409.07429		Agent Workflow Memory
+1	447	2023	2305.17888		LLM-QAT: Data-Free Quantization Aware Training for Large Language Models
+1	437	2023	2304.12995		AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
+1	436	2022	2202.01279	10.18653/v1/2022.acl-demo.9	PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts
+1	434	2025	2503.10615	10.1109/ICCV51701.2025.00229	R1-Onevision: Advancing Generalized Multimodal Reasoning Through Cross-Modal Formalization
+1	431	2024	2401.13178		AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents
+1	427	2013		10.1016/j.tics.2013.03.006	Where's the action? The pragmatic turn in cognitive science.
+1	426	2017	1707.03374	10.1109/ICRA.2018.8462901	Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation
+1	422	2022	2203.07540		ScienceWorld: Is your Agent Smarter than a 5th Grader?
+1	421	2024	2401.07339		CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges
+1	419	2023	2305.16934		On Evaluating Adversarial Robustness of Large Vision-Language Models
+1	417	2023	2305.02182	10.1145/3604915.3610646	Uncovering ChatGPT’s Capabilities in Recommender Systems
+1	416	2021	2109.13916		Unsolved Problems in ML Safety
+1	415	2024	2403.16999	10.52202/079017-0275	Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning
+1	412	2021	2108.05540	10.18653/v1/2022.acl-long.203	Unsupervised Corpus Aware Language Model Pre-training for Dense Passage Retrieval
+1	411	2024	2410.17434		LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding
+1	408	2024	2501.00663		Titans: Learning to Memorize at Test Time
+1	406	2020			ICH E9 (R1) addendum on estimands and sensitivity analysis in clinical trials to the guideline on statistical principles for clinical trials
+1	403	2021	2111.08276		Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts
+1	402	2023	2309.10691		MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback
+1	401	2024	2401.05459		Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security
+1	400	2020	2007.04954		ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation
+1	400	2017	1701.03980		DyNet: The Dynamic Neural Network Toolkit
+1	396	2023	2306.16527		OBELISC: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents
+1	394	2022	2210.12283		Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs
+1	394	2024	2411.04368		Measuring short-form factuality in large language models
+1	389	2021	2109.10862		Recursively Summarizing Books with Human Feedback
+1	389	2018	1802.08802		Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration
+1	389	2023	2310.01957	10.1109/ICRA57147.2024.10611018	Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving
+1	386	2022	2205.12615		Autoformalization with Large Language Models
+1	382	2025		10.1145/3715754	Demystifying LLM-Based Software Engineering Agents
+1	381	2023	2304.04370		OpenAGI: When LLM Meets Domain Experts
+1	376	2023	2308.06394		Detecting and Preventing Hallucinations in Large Vision Language Models
+1	375	2025	2503.12937	10.1109/ICCV51701.2025.00181	R1-VL: Learning to Reason with Multimodal Large Language Models via Step-Wise Group Relative Policy Optimization
+1	375	2015		10.18653/v1/W15-2812	Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval
+1	373	2025	2504.01848		PaperBench: Evaluating AI's Ability to Replicate AI Research
+1	372	2024	2401.16158		Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
+1	365	2017	1701.06049		Interactive Learning from Policy-Dependent Human Feedback
+1	359	2024	2410.10819		DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads
+1	354	2022	2204.04008	10.1109/SP46215.2023.10179304	SoK: Taxonomy of Attacks on Open-Source Software Supply Chains
+1	354	2023	2311.07397		An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation
+1	345	2023	2307.13528		FacTool: Factuality Detection in Generative AI - A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios
+1	340	2022	2210.07558		DyLoRA: Parameter-Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation
+1	339	2023	2309.17452		ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving
+1	337	2023	2304.06790		Inpaint Anything: Segment Anything Meets Image Inpainting
+1	336	2024	2411.10109		LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals
+1	332	2022	2207.13332		RealTime QA: What's the Answer Right Now?
+1	325	2023	2302.12095		On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective
+1	322	2019			SQIL: Imitation Learning via Reinforcement Learning with Sparse Rewards
+1	321	2022	2203.06566	10.1145/3491101.3519729	PromptChainer: Chaining Large Language Model Prompts through Visual Programming
+1	320	2025	2504.07981	10.1145/3746027.3755688	ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use
+1	319	2024	2403.11481		VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding
+1	317	2016	1612.04426		Improving Neural Language Models with a Continuous Cache
+1	316	2025	2509.25140		ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory
+1	314	2024	2411.04468		Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks
+1	313	2017	1709.10163	10.1609/aaai.v32i1.11485	Deep TAMER: Interactive Agent Shaping in High-Dimensional State Spaces
+1	313	2025	2512.13564		Memory in the Age of AI Agents
+1	313	2023	2310.16427		PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization
+1	312	2022	2210.01241		Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization
+1	311	2024	2406.07155		Scaling Large-Language-Model-based Multi-Agent Collaboration
+1	310	2023	2301.13196		Looped Transformers as Programmable Computers
+1	309	2019		10.14778/3352063.3352129	QTune: A Query-Aware Database Tuning System with Deep Reinforcement Learning
+1	308	2026	2602.08234		SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning
+1	307	2023	2307.07162	10.1109/WACVW60836.2024.00102	Drive Like a Human: Rethinking Autonomous Driving with Large Language Models
+1	307	2022	2211.04486		Active Example Selection for In-Context Learning
+1	306	2022	2205.10770		Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models
+1	306	2018	1809.01984	10.18653/v1/D18-1298	Training Millions of Personalized Dialogue Agents
+1	306	2024	2412.04454		Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction
+1	306	2024	2411.17465	10.1109/CVPR52734.2025.01816	ShowUI: One Vision-Language-Action Model for GUI Visual Agent
+1	306	2023	2309.17425		Data Filtering Networks
+1	303	2023	2306.09896		Is Self-Repair a Silver Bullet for Code Generation?
+1	302	2023	2302.02662		Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning
+1	299	2022	2210.06774		Re3: Generating Longer Stories With Recursive Reprompting and Revision
+1	294	1992		10.1287/MNSC.38.6.884	Some Guidelines and Guarantees for Common Random Numbers
+1	293	2023	2304.09667	10.1093/bioinformatics/btae075	GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information
+1	289	2019	1906.02916	10.18653/v1/P19-1613	Multi-hop Reading Comprehension through Question Decomposition and Rescoring
+1	289	2024	2407.01603		A review of large language models and autonomous agents in chemistry
+1	285	2022	2210.07128		Language Models of Code are Few-Shot Commonsense Learners
+1	285	2019		10.1109/LRA.2020.3013848	Sim2Real Predictivity: Does Evaluation in Simulation Predict Real-World Performance?
+1	283	2013		10.1007/978-1-4419-5546-3	International Handbook of Metacognition and Learning Technologies
+1	280	2024	2410.05080		ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery
+1	280	2022	2212.04501	10.1109/CVPR52729.2023.00637	Learning Video Representations from Large Language Models
+1	279	2024	2407.11550		Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference
+1	278	2025	2504.06958		VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning
+1	276	2023	2312.03863		Efficient Large Language Models: A Survey
+1	274	2023	2311.05437		LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents
+1	273	2022	2209.14491		Re-Imagen: Retrieval-Augmented Text-to-Image Generator
+1	272	2022	2209.09874	10.1109/ICRA48891.2023.10161534	Open-vocabulary Queryable Scene Representations for Real World Planning
+1	266	2010		10.1016/j.cub.2010.09.042	Animal tool-use.
+1	263	2014		10.3389/fpsyg.2014.00310	The neural basis of human tool use
+1	263	2023	2311.09210		Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models
+1	262	2023	2303.04129		Foundation Models for Decision Making: Problems, Methods, and Opportunities
+1	262	2023	2311.16839		Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization
+1	257	2025	2506.15841		MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents
+1	256	2024	2404.07143		Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention
+1	255	2025	2507.02259		MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent
+1	255	2023	2311.17076	10.1109/CVPR52733.2024.01367	Compositional Chain-of-Thought Prompting for Large Multimodal Models
+1	254	2021		10.18653/V1/2021.NAACL-MAIN.13	Concealed Data Poisoning Attacks on NLP Models
+1	252	2022	2207.05987		DocPrompting: Generating Code by Retrieving the Docs
+1	252	2024	2403.02901		A Comprehensive Survey on Process-Oriented Automatic Text Summarization with Exploration of LLM-Based Methods
+1	251	2023	2302.03084	10.1109/CVPR52729.2023.01850	Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval
+1	250	2023	2304.06939		Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text
+1	247	2025	2502.08691		AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society
+1	246	2022	2207.07051		Language models show human-like content effects on reasoning
+1	246	2023	2305.12744		Fact-Checking Complex Claims with Program-Guided Reasoning
+1	246	2025	2508.19828		Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning
+1	246	2024	2402.04617	10.52202/079017-3801	InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory
+1	245	2021	2103.06332	10.18653/V1/2021.NAACL-MAIN.393	Hurdles to Progress in Long-form Question Answering
+1	243	2021	2107.12808		Open-Ended Learning Leads to Generally Capable Agents
+1	243	2021	2111.11431		RedCaps: web-curated image-text data created by the people, for the people
+1	242	2007		10.1145/1242572.1242739	Determining the user intent of web search engine queries
+1	241	2022			Retrieval-Augmented Diffusion Models
+1	240	2023	2312.17235		A Simple LLM Framework for Long-Range Video Question-Answering
+1	240	2021	2109.05687	10.18653/v1/2021.emnlp-main.749	Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning
+1	239	2025	2507.21504	10.1145/3711896.3736570	Evaluation and Benchmarking of LLM Agents: A Survey
+1	238	2025	2509.02547		The Landscape of Agentic Reinforcement Learning for LLMs: A Survey
+1	238	2025	2501.07542		Imagine while Reasoning in Space: Multimodal Visualization-of-Thought
+1	237	2024	2408.07199		Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents
+1	235	2023	2309.11751		How Robust is Google's Bard to Adversarial Image Attacks?
+1	234	2024	2409.08264		Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale
+1	234	2024	2402.11411		Aligning Modalities in Vision Large Language Models via Preference Fine-tuning
+1	232	2024	2408.00203		OmniParser for Pure Vision Based GUI Agent
+1	231	2024	2404.05719		Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs
+1	230	2023	2309.14717		QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models
+1	229	2024	2402.18485	10.1145/3637528.3671801	A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist
+1	227	2024	2403.02502		Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents
+1	227	2024	2501.03230		Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition
+1	226	2024	2410.08164		Agent S: An Open Agentic Framework that Uses Computers Like a Human
+1	226	2024	2403.00425		HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding
+1	225	2023	2309.00236		Image Hijacks: Adversarial Images can Control Generative Models at Runtime
+1	222	2020	2005.05339	10.18653/V1/2020.ACL-MAIN.225	Enabling Language Models to Fill in the Blanks
+1	221	2023	2309.11436		You Only Look at Screens: Multimodal Chain-of-Action Agents
+1	221	2021	2110.07560	10.18653/v1/2022.acl-long.125	Composable Sparse Fine-Tuning for Cross-Lingual Transfer
+1	217	2025	2503.12605		Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey
+1	217	2025	2501.03895		LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token
+1	216	2020	2002.09758	10.18653/v1/2020.emnlp-main.713	Unsupervised Question Decomposition for Question Answering
+1	213	2019	1905.10033	10.18653/v1/P19-1542	Personalizing Dialogue Agents via Meta-Learning
+1	213	2022	2212.10535		A Survey of Deep Learning for Mathematical Reasoning
+1	212	2020	2007.04309		Self-Supervised Policy Adaptation during Deployment
+1	212	2025	2502.04180		Multi-agent Architecture Search via Agentic Supernet
+1	212	2025	2504.07079		SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills
+1	211	2022	2301.00303		Rethinking with Retrieval: Faithful Large Language Model Inference
+1	208	2008		10.1109/DEVLRN.2008.4640845	TAMER: Training an Agent Manually via Evaluative Reinforcement
+1	208	2026	2603.25158		Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills
+1	207	2023	2312.15234	10.1145/3754448	Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems
+1	206	2025	2508.15144		Mobile-Agent-v3: Fundamental Agents for GUI Automation
+1	205	2017	1705.07830		Ask the Right Questions: Active Question Reformulation with Reinforcement Learning
+1	202	2023			TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents
+1	202	2024	2401.06432	10.18653/v1/2024.emnlp-main.717	Heterogeneous LoRA for Federated Fine-tuning of On-Device Foundation Models
+1	201	2010		10.1086/650296	Coevolution of Composite‐Tool Technology, Constructive Memory, and Language
+1	200	2024	2411.02571		MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs
+1	199	2025	2510.18866		LightMem: Lightweight and Efficient Memory-Augmented Generation
+1	198	2022	2204.11454		Natural Language to Code Translation with Execution
+1	195	2021	2112.15594	10.1073/pnas.2123433119	A neural network solves, explains, and generates university math problems by program synthesis and few-shot learning at human level
+1	195	2023	2304.05332		Emergent autonomous scientific research capabilities of large language models
+1	192	2017	1704.04572	10.18653/v1/D17-1061	Task-Oriented Query Reformulation with Reinforcement Learning
+1	191	2024		10.52202/079017-0501	Can Large Language Model Agents Simulate Human Trust Behavior?
+1	191	2025	2504.07952		Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory
+1	191	2025	2510.04374		GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks
+1	191	2023	2308.09729		MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models
+1	190	2017	1711.06475		AI Challenger : A Large-scale Dataset for Going Deeper in Image Understanding
+1	188	2024	2402.14800		Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models
+1	186	2024	2407.15711		AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?
+1	186	2023	2305.11860	10.18653/v1/2023.emnlp-main.761	Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning and Coding with LLMs
+1	185	2016		10.1037/rev0000027	Tool use and affordance: Manipulation-based versus reasoning-based approaches.
+1	185	1989		10.1177/089202068900300105	IT Matters
+1	182	2025	2509.08827		A Survey of Reinforcement Learning for Large Reasoning Models
+1	182	2023	2312.06968	10.1109/CVPR52733.2024.02553	Hallucination Augmented Contrastive Learning for Multimodal Large Language Model
+1	182	2023	2306.03901		ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory
+1	181	2014			Plan, Activity, and Intent Recognition: Theory and Practice
+1	180	2025	2502.12134		SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs
+1	180	2025	2504.00906		Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents
+1	180	2024	2411.16724	10.1109/CVPR52734.2025.02328	Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens
+1	179	2022			LILA: A Unified Benchmark for Mathematical Reasoning
+1	177	2023	2308.11339	10.1609/aaai.v38i16.29710	ProAgent: Building Proactive Cooperative Agents with Large Language Models
+1	176	2019		10.1162/leon_r_01713	David Smith: Collected Writings, Lectures, and Interviews
+1	176	2024	2410.02506		Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems
+1	176	2025	2507.07957		MIRIX: Multi-Agent Memory System for LLM-Based Agents
+1	176	2023	2211.12561		Retrieval-Augmented Multimodal Language Modeling
+1	175	2025	2507.21046		A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence
+1	173	2022	2204.02849		KNN-Diffusion: Image Generation via Large-Scale Retrieval
+1	173	2007		10.1016/S0010-9452(08)70462-3	What puts the how in where? Tool use and the divided visual streams hypothesis.
+1	173	2025	2503.21620	10.1609/aaai.v40i21.38816	UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning
+1	172	2024	2409.05591	10.1145/3696410.3714805	MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation
+1	171	2024	2410.16198		Improve Vision Language Model Chain-of-thought Reasoning
+1	170	2018		10.18653/v1/p18-1	Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+1	170	2024	2407.02483		MMedAgent: Learning to Use Medical Tools with Multi-modal Agent
+1	170	2023	2311.13614	10.1109/CVPR52733.2024.01230	HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data
+1	170	2022	2202.06767	10.52202/068431-1916	Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark
+1	169	2026	2601.02553		SimpleMem: Efficient Lifelong Memory for LLM Agents
+1	168	2022	2208.14271		Faithful Reasoning Using Large Language Models
+1	167	2024	2403.09513		AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting
+1	167	2023	2311.07562		GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation
+1	167	2022	2209.01188		Petals: Collaborative Inference and Fine-tuning of Large Models
+1	166	2024	2402.02309		Jailbreaking Attack against Multimodal Large Language Model
+1	165	2022	2204.05660		NumGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks
+1	165	2024	2405.10739	10.1007/s44267-025-00099-6	Efficient multimodal large language models: a survey
+1	165	2024	2403.00231		Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models
+1	163	2022	2206.11871		Offline RL for Natural Language Generation with Implicit Language Q Learning
+1	163	2020		10.1109/tkde.2020.2994641	Database Meets Artificial Intelligence: A Survey
+1	163	2024	2412.16256		Aria-UI: Visual Grounding for GUI Instructions
+1	163	2024	2402.11187		LaCo: Large Language Model Pruning via Layer Collapse
+1	162	2022	2205.12674		Training Language Models with Memory Augmentation
+1	161	2026	2602.02474		MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents
+1	161	2024	2410.13085		MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models
+1	160	2019	1907.09620	10.1073/pnas.1912341117	Rapid trial-and-error learning with simulation supports flexible tool use and physical reasoning
+1	160	2024	2409.10516		RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval
+1	159	2023	2304.09102		Solving Math Word Problems by Combining Language Models With Symbolic Solvers
+1	159	2025	2503.13377	10.52202/085713-2793	Time-R1: Post-Training Large Vision Language Model for Temporal Video Grounding
+1	159	2024	2411.14432	10.1109/CVPR52734.2025.00847	Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models
+1	158	2022	2212.04092		Successive Prompting for Decomposing Complex Questions
+1	158	2024	2402.11435		Momentor: Advancing Video Large Language Model with Fine-Grained Temporal Reasoning
+1	158	2023	2312.08782		Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis
+1	156	2023		10.18653/v1/2023.acl-long.190	DOC: Improving Long Story Coherence With Detailed Outline Control
+1	154	2022	2203.13224		Language Models that Seek for Knowledge: Modular Search & Generation for Dialogue and Prompt Completion
+1	153	2025	2507.03724		MemOS: A Memory OS for AI System
+1	152	2022	2211.09260		Task-aware Retrieval with Instructions
+1	152	2023	2307.14430		Skill-it! A Data-Driven Skills Framework for Understanding and Training Language Models
+1	151	2025	2501.11733		Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks
+1	151	2024	2402.04615		ScreenAI: A Vision-Language Model for UI and Infographics Understanding
+1	150	2023	2303.05453		Personalisation within bounds: A risk taxonomy and policy framework for the alignment of large language models with personalised feedback
+1	150	2021	2106.06169	10.18653/v1/2021.acl-long.14	BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data
+1	150	2016	1602.01196	10.1111/rssb.12191	Principal stratification analysis using principal scores
+1	149	2025		10.1145/3729218	A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook
+1	149	2025	2511.20857		Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory
+1	149	2024	2401.02906		MLLM-Protector: Ensuring MLLM’s Safety without Hurting Performance
+1	148	2025	2503.21614		A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond
+1	147	2024	2406.04031	10.1109/TIFS.2025.3583249	Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt
+1	144	2026	2604.01687		CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification
+1	143	2025	2504.14239		InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners
+1	142	2024	2406.14991		SpreadsheetBench: Towards Challenging Real World Spreadsheet Manipulation
+1	141	2025	2503.02318		Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models
+1	141	2017	1702.02181		Deep Learning with Dynamic Computation Graphs
+1	140	2022			Unifying Language Learning Paradigms
+1	140	2024	2409.00729		ContextCite: Attributing Model Generation to Context
+1	140	2024	2402.15116	10.1007/s44267-025-00093-y	Large multimodal agents: a survey
+1	138	2019	1904.04686	10.1109/CVPR.2019.00647	Multi-Target Embodied Question Answering
+1	138	2023	2312.10665		Silkie: Preference Distillation for Large Visual Language Models
+1	137	2023	2306.08543		MiniLLM: On-Policy Distillation of Large Language Models
+1	136	2022	2203.08383	10.18653/v1/2022.emnlp-main.174	Iteratively Prompt Pre-trained Language Models for Chain of Thought
+1	136	2025	2505.19591		Multi-Agent Collaboration via Evolving Orchestration
+1	135	2022		10.21615/cesmedicina.6571	Artificial Intelligence in Health Care: The Hope, the Hype, the Promise, the Peril. National Academy of Medicine. Una reseña
+1	135	2023	2304.14732	10.1145/3589334.3645363	Search-in-the-Chain: Interactively Enhancing Large Language Models with Search for Knowledge-intensive Tasks
+1	134	2022	2202.08137		A data-driven approach for learning to control computers
+1	134	2021	2112.08558	10.18653/v1/2022.emnlp-main.679	CONQRR: Conversational Query Rewriting for Retrieval with Reinforcement Learning
+1	134	2021		10.1109/TIV.2020.3002505	Learning to Drive by Imitation: An Overview of Deep Behavior Cloning Methods
+1	134	2025	2502.12115		SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?
+1	134	2024	2404.15406	10.1109/CVPRW63382.2024.00188	Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs
+1	134	2022	2210.04284		SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters
+1	133	2024	2407.05131		RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models
+1	132	2024	2402.18649		A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems
+1	132	2024	2406.09418		VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding
+1	131	2023	2311.10081	10.1109/CVPR52733.2024.01350	DRESS : Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback
+1	129	2019		10.1017/S0140525X19003236	The social side of innovation
+1	129	2026	2603.01145		AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution
+1	128	2024		10.1609/aaaiss.v2i1.27688	Memory Matters: The Need to Improve Long-Term Memory in LLM-Agents
+1	128	2025	2505.20286		Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution
+1	127	2010		10.1109/ICICTA.2010.831	A Comprehensive Survey of Data Mining-Based Accounting-Fraud Detection Research
+1	127	2024	2407.04363		AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents
+1	126	2024	2410.05643		TRACE: Temporal Grounding Video LLM via Causal Event Modeling
+1	125	2023	2311.07362		Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision
+1	123	2023	2304.11116		Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT
+1	122	2023	2301.12050		Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling
+1	122	2024	2410.19258		Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning
+1	121	2024	2401.03462		Long Context Compression with Activation Beacon
+1	121	2024	2405.17220	10.1109/CVPR52734.2025.01861	RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness
+1	121	2023		10.1109/ICCV51070.2023.01099	IntentQA: Context-aware Video Intent Reasoning
+1	120	2025	2504.06821		Inducing Programmatic Skills for Agentic Tasks
+1	120	2023	2311.16103		Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models
+1	119	2025	2508.16153		Memento: Fine-tuning LLM Agents without Fine-tuning LLMs
+1	119	2022	2212.10947	10.18653/v1/2023.acl-long.352	Parallel Context Windows for Large Language Models
+1	118	2024	2401.05778		Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems
+1	118	2025	2509.24704		MemGen: Weaving Generative Latent Memory for Self-Evolving Agents
+1	118	2024	2406.11176		Watch Every Step! LLM Agent Learning via Iterative Step-level Process Refinement
+1	118	2024	2402.10828		RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model
+1	117	2023	2308.15126		Evaluation and Analysis of Hallucination in Large Vision-Language Models
+1	117	2024	2403.02181		Not all Layers of LLMs are Necessary during Inference
+1	116	2021	2105.13231		AndroidEnv: A Reinforcement Learning Platform for Android
+1	116	2020	2001.02192	10.1007/s11263-021-01437-z	An Exploration of Embodied Visual Exploration
+1	116	2025	2504.00587		AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems
+1	116	2024	2405.12035		KG-RAG: Bridging the Gap Between Knowledge and Creativity
+1	115	2022	2209.15003		Compositional Semantic Parsing with Large Language Models
+1	115	2023	2307.16368		AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?
+1	114	2022	2206.08514		A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks
+1	114	2018	1805.01817	10.18653/v1/P18-2050	Extreme Adaptation for Personalized Neural Machine Translation
+1	114	2023	2305.05662		InternGPT: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language
+1	114	2023	2311.17541		TaskWeaver: A Code-First Agent Framework
+1	114	2020	2101.00063	10.18653/v1/2021.acl-long.171	EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets
+1	113	2023			API-Bank: A Benchmark for Tool-Augmented LLMs
+1	113	2024	2403.12881		Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models
+1	113	2024	2408.08067		RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation
+1	113	2023	2310.15080		Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization
+1	112	2025	2506.03143		GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents
+1	112	2025	2505.12434		VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning
+1	111	2024	2407.05291		WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks
+1	111	2024	2404.06511	10.1109/CVPR52733.2024.01257	MoReVQA: Exploring Modular Reasoning Models for Video Question Answering
+1	110	2022	2212.13894		LAMBADA: Backward Chaining for Automated Reasoning in Natural Language
+1	110	2023	2311.16714	10.1109/CVPR52733.2024.02482	Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld
+1	110	2024	2401.16160		LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs
+1	110	2023	2307.02628		SkipDecode: Autoregressive Skip Decoding with Batching and Caching for Efficient LLM Inference
+1	109	2024	2405.13382		VTG-LLM: Integrating Timestamp Knowledge into Video LLMs for Enhanced Video Temporal Grounding
+1	108	2022	2208.11663		PEER: A Collaborative Language Model
+1	107	2025	2505.03318		Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning
+1	107	2023	2305.17331		Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In
+1	107	2023	2310.05424		Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding
+1	106	2021			Behavioral Cloning from Noisy Demonstrations
+1	106	2024	2407.08713		GTA: A Benchmark for General Tool Agents
+1	106	2023	2305.16742		Parameter-Efficient Fine-Tuning without Introducing New Latency
+1	105	2024	2405.15114	10.1145/3626772.3657828	Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning
+1	105	2025	2503.11197		Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering
+1	105	2025	2502.10391		MM-RLHF: The Next Step Forward in Multimodal LLM Alignment
+1	105	2024		10.1145/3626772.3657740	LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval
+1	105	2024	2404.03622	10.52202/079017-2866	Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models
+1	104	2025	2502.10325		Process Reward Models for LLM Agents: Practical Framework and Directions
+1	104	2024	2404.14233		Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback
+1	104	2023	2312.04916		EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism
+1	104	2024	2407.03502		AgentInstruct: Toward Generative Teaching with Agentic Flows
+1	103	2022	2210.03945		Understanding HTML with Large Language Models
+1	103	2025	2510.24699		AgentFold: Long-Horizon Web Agents with Proactive Context Management
+1	103	2024	2501.00332		MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation
+1	102	2019	1909.00109	10.18653/v1/D19-1609	Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension
+1	102	2024	2406.16338		VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models
+1	102	2023	2310.05338		Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models
+1	101	2025	2501.05452		ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding
+1	101	2023	2305.18403	10.18653/v1/2024.findings-acl.178	LoRAPrune: Structured Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning
+1	100	2025	2501.07246	10.1109/ASRU65441.2025.11434628	Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model
+1	100	2024	2402.02834		Shortened LLaMA: A Simple Depth Pruning for Large Language Models
+1	99	2022	2208.05051		Limitations of Language Models in Arithmetic and Symbolic Induction
+1	98	2025	2506.21605		MemBench: Towards More Comprehensive Evaluation on the Memory of LLM-based Agents
+1	98	2024	2401.11170		Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images
+1	97	2023	2306.16636		CMATH: Can Your Language Model Pass Chinese Elementary School Math Test?
+1	97	2023	2304.07061		DroidBot-GPT: GPT-powered UI Automation for Android
+1	96	2022	2211.11736		Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models
+1	96	2024	2412.03548	10.1109/CVPR52734.2025.00363	Perception Tokens Enhance Visual Reasoning in Multimodal Language Models
+1	95	2025	2507.06229		Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving
+1	95	2023	2312.10003		ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent
+1	94	2024	2412.03735	10.1109/CVPR52734.2025.01281	VIDHALLUC: Evaluating Temporal Hallucinations in Multimodal Large Language Models for Video Understanding
+1	94	2024	2402.14683		Visual Hallucinations of Multi-modal Large Language Models
+1	93	2024	2402.03190		Unified Hallucination Detection for Multimodal Large Language Models
+1	92	2023	2302.00763		Collaborating with language models for embodied reasoning
+1	92	2024	2407.13032		Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems
+1	92	2024	2406.09396		Too Many Frames, not all Useful: Efficient Strategies for Long-Form Video QA
+1	91	2022	2210.01296		Recitation-Augmented Language Models
+1	91	2020	2007.04561		Auxiliary Tasks Speed Up Learning PointGoal Navigation
+1	91	2023	2310.15200	10.1145/3746027.3755316	Open-Set Image Tagging with Multi-Grained Text Supervision
+1	91	2023	2309.02301		CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning
+1	90	2007		10.1007/978-3-540-49744-8	Manufacturing Execution Systems (MES)
+1	90	2023	2312.01701		Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites
+1	89	2025	2502.01549	10.1145/3770854.3783944	VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos
+1	88	2024	2411.02712	10.18653/v1/2024.findings-emnlp.775	V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization
+1	88	2024	2409.18111		E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding
+1	88	2024	2405.20773		Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Characte
+1	88	2023	2301.01821		Parameter-Efficient Fine-Tuning Design Spaces
+1	87	2021	2107.11976		One Question Answering Model for Many Languages with Cross-lingual Dense Passage Retrieval
+1	87	2023	2311.05657	10.18653/v1/2024.acl-long.670	Agent Lumos: Unified and Modular Training for Open-Source Language Agents
+1	86	2024	2411.11919		VL-Uncertainty: Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation
+1	85	2025	2511.11793		MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling
+1	85	2025	2506.01062		SealQA: Raising the Bar for Reasoning in Search-Augmented Language Models
+1	85	2025	2506.22716		BEST-Route: Adaptive LLM Routing with Test-Time Optimal Compute
+1	85	2024	2406.11069		WildVision: Evaluating Vision-Language Models in the Wild with Human Preferences
+1	85	2024	2404.06448	10.1109/TMC.2025.3649881	Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models
+1	83	2024	2407.12735	10.18653/v1/2024.findings-emnlp.83	EchoSight: Advancing Visual-Language Models with Wiki Knowledge
+1	83	2025			VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning
+1	83	2024	2405.20985		DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models
+1	83	2024	2412.03213	10.1109/DAC63849.2025.11132479	ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression
+1	82	2018	1812.09195		Learning to Navigate the Web
+1	82	2024	2410.15926		Mitigating Object Hallucination via Concentric Causal Attention
+1	81	2021	2112.09924		The Web Is Your Oyster - Knowledge-Intensive NLP against a Very Large Web Corpus
+1	81	2025	2503.07065		Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning
+1	81	2024	2401.08392		DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models
+1	80	2020	2002.03079	10.18653/v1/2020.emnlp-main.420	Blank Language Models
+1	80	2022	2204.08128		Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation
+1	80	2023	2306.02408		Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning
+1	80	2025	2502.05206	10.1561/3300000051	Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety
+1	80	2024	2409.14051	10.65109/DSDX8860	GroupDebate: Enhancing the Efficiency of Multi-Agent Debate Using Group Discussion
+1	80	2025	2501.12368		InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model
+1	79	2024	2401.10727	10.1109/WACV61041.2025.00650	MLLM-Tool: A Multimodal Large Language Model for Tool Agent Learning
+1	79	2023	2304.14407		ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System
+1	78	2024	2403.14622		Language Repository for Long Video Understanding
+1	77	2026	2604.08377		SkillClaw: Let Skills Evolve Collectively with Agentic Evolver
+1	76	2022	2211.00151		A Close Look into the Calibration of Pre-trained Language Models
+1	76	2021		10.18653/V1/2021.NAACL-MAIN.157	Personalized Response Generation via Generative Split Memory Network
+1	76	2025	2511.20639		Latent Collaboration in Multi-Agent Systems
+1	76	2025	2507.22925		Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents
+1	76	2025	2505.15810		GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
+1	75	2009		10.1016/j.conb.2009.05.003	Functional understanding facilitates learning about tools in human children.
+1	75	2025	2511.02230		Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live
+1	75	2024	2411.09968		Seeing Clearly by Layer Two: Enhancing Attention Heads to Alleviate Hallucination in LVLMs
+1	75	2024	2404.16033	10.1145/3664647.3681249	Cantor: Inspiring Multimodal Chain-of-Thought of MLLM
+1	73	2021	2106.01751	10.18653/v1/2021.findings-acl.395	Reordering Examples Helps during Priming-based Few-Shot Learning
+1	73	2024	2406.10185		Detecting and Evaluating Medical Hallucinations in Large Vision Language Models
+1	73	2023	2311.15209		See and Think: Embodied Agent in Virtual Environment
+1	72	2024	2403.15452		What Are Tools Anyway? A Survey from the Language Model Perspective
+1	72	2023	2309.08172		LASER: LLM Agent with State-Space Exploration for Web Navigation
+1	72	2025	2504.05599		Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought
+1	71	2013		10.4324/9780203052594-16	Computer Environments as Cognitive Tools for Enhancing Learning
+1	71	2024	2410.06625		ETA: Evaluating Then Aligning Safety of Vision Language Models at Inference Time
+1	70	2022	2210.03078		Rainier: Reinforced Knowledge Introspector for Commonsense Question Answering
+1	70	2025	2507.19478		MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents
+1	70	2023	2303.00534	10.1145/3581783.3611830	RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training
+1	70	2024	2411.09688		Squeezed Attention: Accelerating Long Context Length LLM Inference
+1	69	2011		10.1145/1980022.1980409	Evaluation of machine translation
+1	69	2025		10.18653/v1/2025.acl-long.1355	AgentGym: Evaluating and Training Large Language Model-based Agents across Diverse Environments
+1	69	2024	2410.18325		AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models
+1	69	2024	2403.12488		DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM
+1	69	2024	2402.06659		Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models
+1	68	2006			A new approach for words reordering based on statistical language model
+1	68	2025	2505.18279		Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control
+1	68	2023	2308.03427		TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage
+1	68	2023	2305.14322		RET-LLM: Towards a General Read-Write Memory for Large Language Models
+1	68	2024	2406.16747		Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers
+1	67	2022	2205.12538		Is a Question Decomposition Unit All We Need?
+1	67	2026	2604.05333		Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills
+1	67	2025	2505.02835		R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning
+1	66	2025	2506.07464		DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO
+1	66	2024	2410.12813	10.1109/CVPRW63382.2024.00191	ChatVTG: Video Temporal Grounding via Chat with Video Dialogue Large Language Models
+1	66	2023	2311.16479		Mitigating Hallucination in Visual Language Models with Visual Supervision
+1	66	2023	2304.04920		Advancing Medical Imaging with Language Models: A Journey from N-grams to ChatGPT
+1	66	2023	2310.09343		Dialogue Chain-of-Thought Distillation for Commonsense-aware Conversational Agents
+1	65	2024	2401.00789	10.1109/CVPR52733.2024.01284	Retrieval-Augmented Egocentric Video Captioning
+1	64	2024	2402.14672		Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments
+1	64	2026	2601.03236		MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents
+1	64	2024	2411.01142		NEO: Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference
+1	63	2023	2306.06331		Investigating the Effectiveness of ChatGPT in Mathematical Reasoning and Problem Solving: Evidence from the Vietnamese National High School Graduation Examination
+1	63	2025	2505.16410		Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning
+1	63	2024	2410.15778		Reducing Hallucinations in Vision-Language Models via Latent Space Steering
+1	61	2019		10.69985/xtet4824	AI in Context: The Labor of Integrating New Technologies
+1	61	2025	2505.17612		Distilling LLM Agent into Small Models with Retrieval and Code Tools
+1	61	2024	2412.10704		VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation
+1	61	2024	2408.10433		CLIP-DPO: Vision-Language Models as a Source of Preference for Fixing Hallucinations in LVLMs
+1	60	2011			Summarize What You Are Interested In: An Optimization Framework for Interactive Personalized Summarization
+1	60	2024	2402.13225		AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning
+1	59	2022	2205.07381		SeqZero: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models
+1	59	2024	2410.18967		Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms
+1	59	2023	2311.01477	10.18653/v1/2024.findings-emnlp.290	FaithScore: Fine-grained Evaluations of Hallucinations in Large Vision-Language Models
+1	58	2018	1811.01990	10.18653/v1/D18-1104	Compact Personalized Models for Neural Machine Translation
+1	58	2026	2602.01869		Skill-Pro: Learning Reusable Skills from Experience via Non-Parametric PPO for LLM Agents
+1	57	2013		10.1098/rstb.2012.0418	Did tool-use evolve with enhanced physical cognitive abilities?
+1	57	2024	2402.11622		Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models
+1	57	2023	2311.00571		LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing
+1	57	2023	2305.16582		Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Language Models
+1	56	2024	2403.11085		m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks
+1	56	2023	2311.11315		TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems
+1	56	2025	2506.04301	10.1109/HPCA68181.2026.11408569	The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective
+1	56	2024	2403.02574		ChatCite: LLM Agent with Human Workflow Guidance for Comparative Literature Summary
+1	55	2026	2605.06614		SkillOS: Learning Skill Curation for Self-Evolving Agents
+1	55	2025	2505.16700		MCP-RADAR: A Multi-Dimensional Benchmark for Evaluating Tool Use Capabilities in Large Language Models
+1	55	2025	2504.13359		Cost-of-Pass: An Economic Framework for Evaluating Language Models
+1	55	2024	2407.01178	10.4208/jml.240708	Memory3: Language Modeling with Explicit Memory
+1	55	2024	2411.18688	10.1109/CVPR52734.2025.02331	Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment
+1	55	2024	2412.14838		DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs
+1	54	2021			Natural Instructions: Benchmarking Generalization to New Tasks from Natural Language Instructions
+1	54	2025	2509.19199		Agentic Reinforcement Learning with Implicit Step Rewards
+1	53	2024	2402.17231		MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning
+1	53	2023	2305.04032		ToolCoder: Teach Code Generation Models to use API search tools
+1	53	2025	2506.05302		Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos
+1	53	2024	2404.02904		ALOHa: A New Measure for Hallucination in Captioning Models
+1	53	2023	2309.01093	10.1109/ICCV51070.2023.00285	CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection
+1	53	2024	2402.12563		Confidence Matters: Revisiting Intrinsic Self-Correction Capabilities of Large Language Models
+1	52	2022	2208.03270		Learning New Skills after Deployment: Improving open-domain internet-driven dialogue with human feedback
+1	52	2019		10.1007/s11065-019-09418-3	To Watch is to Work: a Review of NeuroImaging Data on Tool Use Observation Network
+1	52	2024	2410.18756		Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing
+1	52	2024	2404.19752	10.1109/CVPR52733.2024.01331	Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation
+1	52	2025	2505.02795	10.1109/TMC.2026.3680521	HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models
+1	51	2024	2406.07115		Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees
+1	51	2025	2506.16042		OSWorld-Human: Benchmarking the Efficiency of Computer-Use Agents
+1	51	2024	2410.19609		OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization
+1	51	2024			From Redundancy to Relevance: Enhancing Explainability in Multimodal Large Language Models
+1	50	2022			Distilling Multi-Step Reasoning Capabilities of Large Language Models into Smaller Models via Semantic Decompositions
+1	50	2024	2402.15491		API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs
+1	50	2024	2402.13220		How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts
+1	49	2023	2312.04455		Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use
+1	49	2024	2402.01620		MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models
+1	49	2025	2504.04736		Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use
+1	49	2024	2402.02805		Graph-enhanced Large Language Models in Asynchronous Plan Reasoning
+1	49	2024	2407.15680		HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning
+1	49	2024	2405.05256	10.1109/CVPR52733.2024.02571	THRONE: An Object-Based Hallucination Benchmark for the Free-Form Generations of Large Vision-Language Models
+1	49	2023	2312.13108		ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation
+1	48	2023			Search-in-the-Chain: Towards the Accurate, Credible and Traceable Content Generation for Complex Knowledge-intensive Tasks
+1	48	2026	2601.06112		ReliabilityBench: Evaluating LLM Agent Reliability Under Production-Like Stress Conditions
+1	48	2025	2505.16827		GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent
+1	48	2024	2407.00569		Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models
+1	48	2024	2403.17918		AgentStudio: A Toolkit for Building General Virtual Agents
+1	47	2026	2604.22750		How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks
+1	47	2024	2406.10900		AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models
+1	47	2024	2402.15721	10.1145/3664647.3680576	Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models
+1	47	2024	2402.00626		Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks
+1	46	2025	2511.02734		CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents
+1	46	2024	2402.10778	10.15607/RSS.2024.XX.112	AutoGPT+P: Affordance-based Task Planning with Large Language Models
+1	46	2024	2406.16620		OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer
+1	46	2025	2505.19190		I2MoE: Interpretable Multimodal Interaction-aware Mixture-of-Experts
+1	46	2023	2308.15030	10.18653/v1/2024.acl-long.363	SwapMoE: Serving Off-the-shelf MoE-based Large Language Models with Tunable Memory Budget
+1	45	2019		10.1038/s41598-018-38392-8	Learning curves and teaching when acquiring nut-cracking in humans and chimpanzees
+1	45	2025		10.52202/085713-1347	MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation
+1	45	2024	2410.10676		Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation
+1	45	2023	2310.01467		FedBPT: Efficient Federated Black-box Prompt Tuning for Large Language Models
+1	44	2024	2407.00132		ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents
+1	44	2024	2406.19966		Simulating Financial Market via Large Language Model based Agents
+1	44	2023	2311.10775		ToolTalk: Evaluating Tool-Usage in a Conversational Setting
+1	44	2025	2505.13308		Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space
+1	43	2013		10.1007/978-1-4419-5546-3_13	Metacognition and the use of tools
+1	43	2024	2408.16219		Training-free Video Temporal Grounding using Large-scale Pre-trained Models
+1	43	2024	2408.00555	10.1145/3742434	Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation
+1	43	2024	2404.12916		Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models
+1	43	2025	2503.12016		A Survey on Federated Fine-tuning of Large Language Models
+1	43	2025	2502.09980	10.1109/ICRA57385.2026.11696625	V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models
+1	42	2024	2409.14826		ToolPlanner: A Tool Augmented LLM for Multi Granularity Instructions with Path Planning and Feedback
+1	42	2023	2309.09836	10.1109/ICASSP48485.2024.10448030	Recap: Retrieval-Augmented Audio Captioning
+1	42	2024		10.18653/v1/2024.acl-long.432	Chain-of-Exemplar: Enhancing Distractor Generation for Multimodal Educational Question Generation
+1	42	2024			AGLA: Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention
+1	42	2025	2502.17599		MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference
+1	41	2022			Bold because humble, humble because bold: Yann LeCun’s Path
+1	41	2026	2604.03964		SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources
+1	40	2022	2211.11602		Improving Multimodal Interactive Agents with Reinforcement Learning from Human Feedback
+1	40	2023	2310.05155		Toolink: Linking Toolkit Creation and Using through Chain-of-Solving on Open-Source Model
+1	40	2025	2510.04851	10.65109/VLUA1303	LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation
+1	40	2024	2404.09982		Memory Sharing for Large Language Model based Agents
+1	40	2025	2507.00008		DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning
+1	40	2025	2505.00684	10.1109/ICCV51701.2025.01859	Visual Test-Time Scaling for GUI Agent Grounding
+1	40	2024	2412.14457		VISA: Retrieval Augmented Generation with Visual Source Attribution
+1	40	2024	2404.05046		FGAIF: Aligning Large Vision-Language Models with Fine-grained AI Feedback
+1	40	2024	2401.12200		APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference
+1	39	2025	2503.00361	10.1109/CVPR52734.2025.02783	Octopus: Alleviating Hallucination via Dynamic Contrastive Decoding
+1	39	2024	2411.12591		Thinking Before Looking: Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination
+1	39	2024	2405.15683		Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs
+1	39	2024	2406.18060		AdaZeta: Adaptive Zeroth-Order Tensor-Train Adaption for Memory-Efficient Large Language Models Fine-Tuning
+1	39	2023	2305.15065		Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning
+1	38	2025	2508.17692		LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios
+1	38	2025	2503.02390		ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks
+1	38	2026	2601.14242		APEX-Agents
+1	38	2025	2503.08540		Mellow: a small audio language model for reasoning
+1	37	2018		10.1037/amp0000162	Looking for intoolligence: A unified framework for the cognitive study of human tool use and technology.
+1	37	2010			Supply Chain Management Systems: Architecture, Design and Vision
+1	37	2023			Lang2LTL: Translating Natural Language Commands to Temporal Robot Task Specification
+1	37	2025	2508.03923		CoAct-1: Computer-using Multi-Agent System with Coding Actions
+1	37	2025	2501.01120		Retrieval-Augmented Dynamic Prompt Tuning for Incomplete Multimodal Learning
+1	37	2024	2412.14835		Progressive Multimodal Reasoning via Active Retrieval
+1	37	2024	2412.05934	10.1109/ICCV51701.2025.00258	Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models
+1	37	2024	2410.20971		BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks
+1	37	2024	2403.15952		IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models
+1	36	2024	2404.00450		Planning and Editing What You Retrieve for Enhanced Tool Learning
+1	36	2024		10.1007/978-981-99-7587-7	AI-generated Content: First International Conference, AIGC 2023, Shanghai, China, August 25–26, 2023, Revised Selected Papers
+1	36	2023	2308.00304		Skills-in-Context Prompting: Unlocking Compositionality in Large Language Models
+1	36	2024	2407.00978	10.1109/JIOT.2024.3521425	Hybrid RAG-Empowered Multimodal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-Based Contract Approach
+1	36	2024	2403.16998		Understanding Long Videos with Multimodal Language Models
+1	36	2024	2403.10153		Improving Medical Multi-modal Contrastive Learning with Expert Annotations
+1	35	2016		10.3389/fpsyg.2016.00267	What Does It Take for an Infant to Learn How to Use a Tool by Observation?
+1	35	2024	2412.11124		Combating Multimodal LLM Hallucination via Bottom-Up Holistic Reasoning
+1	35	2023	2310.11954		MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models
+1	34	2022	2208.08232		HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models
+1	34	2023	2305.10314		LeTI: Learning to Generate from Textual Interactions
+1	34	2025	2507.02844		Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection
+1	34	2024	2408.09429		Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models
+1	33	2021	2108.12472	10.18653/v1/2021.emnlp-main.83	ReGen: Reinforcement Learning for Text and Knowledge Base Generation using Pretrained Language Models
+1	33	2024		10.1145/3626772.3661381	Empowering Large Language Models: Tool Learning for Real-World Interaction
+1	33	2024			Improving LLM-based Machine Translation with Systematic Self-Correction
+1	33	2025	2502.04790		S2-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency
+1	33	2025	2505.00675		Rethinking Memory in LLM based Agents: Representations, Operations, and Emerging Topics
+1	33	2026	2601.11044		AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts
+1	33	2023	2310.01779		HallE-Control: Controlling Object Hallucination in Large Multimodal Models
+1	33	2024	2404.14285		LLM-Personalize: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots
+1	33	2023	2305.16597		Neural Architecture Search for Parameter-Efficient Fine-tuning of Large Pre-trained Language Models
+1	32	2024	2405.16546		Cocktail: A Comprehensive Information Retrieval Benchmark with LLM-Generated Documents Integration
+1	32	2025	2505.18962		System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts
+1	32	2025	2506.01725		VideoCap-R1: Enhancing MLLMs for Video Captioning via Structured Thinking
+1	32	2025	2502.06428		CoS: Chain-of-Shot Prompting for Long Video Understanding
+1	32	2024	2404.16375		List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs
+1	32	2023	2312.01886	10.1186/s42400-026-00612-4	Instructta: instruction-tuned targeted attack for large vision-language models
+1	31	2025	2509.11035		Free-MAD: Consensus-Free Multi-Agent Debate
+1	31	2025	2506.14852	10.52202/085713-3451	Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents
+1	31	2025	2505.07596		Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent
+1	31	2025	2505.20660		BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism
+1	30	2023			T-Eval: Evaluating the Tool Utilization Capability Step by Step
+1	30	2026	2603.04900		EvoTool: Self-Evolving Tool-Use Policy Optimization in LLM Agents via Blame-Aware Mutation and Diversity-Aware Selection
+1	30	2024	2412.14056		A Review of Multimodal Explainable Artificial Intelligence: Past, Present and Future
+1	30	2024	2411.16863	10.1109/CVPR52734.2025.00859	Augmenting Multimodal LLMs with Self-Reflective Tokens for Knowledge-based Visual Question Answering
+1	29	2015		10.18653/v1/D15-1238	Personalized Machine Translation: Predicting Translational Preferences
+1	29	2024	2411.10436		Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization
+1	29	2023	2312.07622	10.1145/3773985	Mathematical Language Models: A Survey
+1	29	2023	2305.11170		Efficient Prompting via Dynamic In-Context Learning
+1	28	2013			The Art of Reasoning: An Introduction to Logic and Critical Thinking
+1	28	2025	2506.17644	10.1145/3719027.3744855	Measuring and Augmenting Large Language Models for Solving Capture-the-Flag Challenges
+1	28	2024	2411.07464	10.1145/3703412.3703416	BudgetMLAgent: A Cost-Effective LLM Multi-Agent system for Automating Machine Learning Tasks
+1	28	2025	2503.18492	10.1145/3680207.3765248	VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification
+1	28	2025	2503.05255		CMMCoT: Enhancing Complex Multi-Image Comprehension via Multi-Modal Chain-of-Thought and Memory Augmentation
+1	28	2024	2405.13581		Safety Alignment for Vision Language Models
+1	28	2023	2312.10897		Generalized Category Discovery with Large Language Models in the Loop
+1	28	2025	2503.06433		Seesaw: High-throughput LLM Inference via Model Re-sharding
+1	28	2024	2411.09317		Pie: Pooling CPU Memory for LLM Inference
+1	27	2023	2312.09075		Towards Verifiable Text Generation with Evolving Memory and Self-Reflection
+1	27	2025		10.1109/ICCV51701.2025.00558	Less is More: Empowering GUI Agent with Context-Aware Simplification
+1	27	2016		10.1093/biostatistics/kxw049	Inequality in treatment benefits: Can we determine if a new treatment benefits the many or the few?
+1	27	2024	2410.13321		Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding
+1	27	2024	2406.03746		Efficient Knowledge Infusion via KG-LLM Alignment
+1	26	2021	2109.00527		Boosting Search Engines with Interactive Agents
+1	26	2024		10.18653/v1/2024.findings-acl.928	CToolEval: A Chinese Benchmark for LLM-Powered Agent Evaluation in Real-World API Interactions
+1	26	2025	2510.06445		A Survey on Agentic Security: Applications, Threats and Defenses
+1	26	2026	2605.25338		CausalFlow: Causal Attribution and Counterfactual Repair for LLM Agent Failures
+1	26	2024	2407.02352		Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification
+1	26	2024	2404.01476	10.18653/v1/2024.emnlp-main.544	TraveLER: A Modular Multi-LMM Agent Framework for Video Question-Answering
+1	26	2023	2312.02219	10.1109/CVPRW67362.2025.00054	Behind the Magic, MERLIM: Multi-Modal Evaluation Benchmark for Large Image-Language Models
+1	26	2024	2405.18628		Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference
+1	25	2023	2305.15017	10.18653/v1/2023.emnlp-main.742	Calc-X and Calcformers: Empowering Arithmetical Chain-of-Thought through Interaction with Symbolic Systems
+1	25	2025	2510.10991		A Survey on Agentic Multimodal Large Language Models
+1	25	2024	2407.21659	10.18653/v1/2024.findings-emnlp.803	Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models
+1	24	2024	2405.16376		STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making
+1	24	2023	2310.01045		Tool-Augmented Reward Modeling
+1	24	2026	2602.02007		Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation
+1	24	2026	2606.05806		When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents
+1	24	2026	2604.23374		Ghost in the Agent: Redefining Information Flow Tracking for LLM Agents
+1	24	2025	2507.05673	10.18653/v1/2025.findings-acl.501	R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding
+1	24	2025		10.1145/3696410.3714559	Following Clues, Approaching the Truth: Explainable Micro-Video Rumor Detection via Chain-of-Thought Reasoning
+1	24	2025	2503.08585	10.1109/CVPR52734.2025.00799	HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding
+1	24	2025	2501.15361		Decentralized Low-Rank Fine-Tuning of Large Language Models
+1	23	2014		10.3389/fpsyg.2014.00529	Memory, reasoning, and categorization: parallels and common mechanisms
+1	23	2026	2601.07779		OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent
+1	23	2025	2503.06470		Think Twice, Click Once: Enhancing GUI Grounding via Fast and Slow Systems
+1	23	2024	2412.16500	10.1109/ICASSP49660.2025.10888900	Speech Retrieval-Augmented Generation without Automatic Speech Recognition
+1	23	2024	2411.15041		mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA
+1	23	2024	2410.03176		Investigating and Mitigating Object Hallucinations in Pretrained Vision-Language (CLIP) Models
+1	23	2024	2402.09801		EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models
+1	23	2023	2311.15436		Learning to Skip for Language Modeling
+1	22	2023	2302.14003		Systematic Rectification of Language Models via Dead-end Analysis
+1	22	2022			Continual-T0: Progressively Instructing 50+ Tasks to Language Models Without Forgetting
+1	22	2024	2401.15328		Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance
+1	22	2025	2508.04903		RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory
+1	22	2025	2507.21836		AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning
+1	22	2025	2509.06278		TableMind: An Autonomous Programmatic Agent for Tool-Augmented Table Reasoning
+1	22	2024	2409.05076	10.1145/3664647.3685510	PIP: Detecting Adversarial Examples in Large Vision-Language Models via Attention Patterns of Irrelevant Probe Questions
+1	21	2024	2405.00709		Evaluating Tool-Augmented Agents in Remote Sensing Platforms
+1	21	2022	2211.16482		Chaining Simultaneous Thoughts for Numerical Reasoning
+1	21	2025	2509.03581		Learning When to Plan: Efficiently Allocating Test-Time Compute for LLM Agents
+1	21	2025	2508.19598		Encouraging Good Processes Without the Need for Good Answers: Reinforcement Learning for LLM Agent Planning
+1	21	2023	2312.03631	10.18653/v1/2024.findings-acl.657	Mitigating Open-Vocabulary Caption Hallucinations
+1	20	2022	2212.08286		ALERT: Adapt Language Models to Reasoning Tasks
+1	20	2024	2407.10718		Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning
+1	20	2025	2502.05453		LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning
+1	20	2025	2510.09038		Auto-scaling Continuous Memory for GUI Agent
+1	20	2026	2606.03056		SkillDAG: Self-Evolving Typed Skill Graphs for LLM Skill Selection at Scale
+1	20	2024	2410.00296		VLMGuard: Bootstrapping Malicious Prompt Detectors from Unlabeled Vision-Language Prompts in the Wild
+1	20	2024	2407.11422		Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models
+1	20	2024	2407.07000		Metron: Holistic Performance Evaluation Framework for LLM Inference Systems
+1	20	2024	2411.17089	10.18653/v1/2025.findings-acl.997	KVPR: Efficient LLM Inference with I/O-Aware KV Cache Partial Recomputation
+1	19	2021	2103.01991		Adversarial Environment Generation for Learning to Navigate the Web
+1	19	2023	2310.12426		MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models
+1	19	2025	2510.26585		Stop Wasting Your Tokens: Towards Efficient Runtime Multi-Agent Systems
+1	19	2025	2502.02584		QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search
+1	19	2026	2604.24955		Who Guards the Benchmarks? Automated Auditing of LLM Agent Benchmarks
+1	19	2025	2510.03285		WAREX: Web Agent Reliability Evaluation on Existing Benchmarks
+1	19	2025	2503.02519		Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent
+1	19	2025	2509.23738		GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence GUI Tasks
+1	19	2024	2406.19263		Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding
+1	19	2025	2501.03995		RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance
+1	19	2024	2408.12009		CaRDiff: Video Salient Object Ranking Chain of Thought Reasoning for Saliency Prediction with Diffusion
+1	19	2024	2407.20505		Interpreting and Mitigating Hallucination in MLLMs through Multi-agent Debate
+1	19	2024	2405.20834		Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning
+1	19	2024			CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought
+1	19	2024	2402.18789		FlexLLM: Token-Level Co-Serving of LLM Inference and Finetuning with SLO Guarantees
+1	18	2021	2112.03204	10.18653/v1/2022.naacl-main.346	Quantifying Adaptability in Pre-trained Language Models with 500 Tasks
+1	18	2025	2512.24165		DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models
+1	18	2026	2602.16699		Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents
+1	18	2025	2509.02473	10.1145/3770855.3817454	FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data
+1	18	2026	2602.03338		Accurate Failure Prediction in Agents Does Not Imply Effective Failure Prevention
+1	18	2024	2404.13874		VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models
+1	18	2024	2404.07677		ODA: Observation-Driven Agent for integrating LLMs and Knowledge Graphs
+1	17	2023	2302.02801		LaMPP: Language Models as Probabilistic Priors for Perception and Action
+1	17	2024	2405.16550	10.1145/3626772.3657936	ReCODE: Modeling Repeat Consumption with Neural ODE
+1	17	2023			LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts
+1	17	2026	2604.15877		Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents
+1	17	2025	2508.08997		Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory
+1	17	2025	2509.20502		MARS: toward more efficient multi-agent collaboration for LLM reasoning
+1	17	2024	2410.22552	10.18653/v1/2024.findings-emnlp.964	Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents
+1	17	2023	2309.12425	10.1093/jrsssb/qkaf049	Principal stratification with continuous post-treatment variables: nonparametric identification and semiparametric estimation
+1	17	2025	2505.20715		MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding
+1	17	2025	2502.11455		Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training
+1	17	2025	2501.04695		Re-ranking the Context for Multimodal Retrieval Augmented Generation
+1	17	2024	2404.12866		How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?
+1	17	2024	2407.21075		Apple Intelligence Foundation Language Models
+1	17	2025	2502.12574		HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading
+1	17	2023	2306.16009		Accelerating Transducers through Adjacent Token Merging
+1	16	2025	2506.13356		StoryBench: A Dynamic Benchmark for Evaluating Long-Term Memory with Multi Turns
+1	16	2025	2509.11963		ToolRM: Outcome Reward Models for Tool-Calling Large Language Models
+1	16	2026	2601.14470		Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering
+1	16	2024	2411.02570	10.1016/j.cviu.2025.104613	TI-PREGO: Chain of Thought and In-Context Learning for Online Mistake Detection in PRocedural EGOcentric Videos
+1	16	2024	2406.09250		MirrorCheck: Efficient Adversarial Defense for Vision-Language Models
+1	16	2024	2405.19186		MetaToken: Detecting Hallucination in Image Descriptions by Meta Classification
+1	16	2025	2507.14397		LIMINAL: Exploring The Frontiers of LLM Decode Performance
+1	15	2016			Origins of human intelligence: The chain of tool-making and brain evolution
+1	15	2023	2309.16090		TPE: Towards Better Compositional Reasoning over Conceptual Tools with Multi-persona Collaboration
+1	15	2025	2511.21398		Prune4Web: DOM Tree Pruning Programming for Web Agent
+1	15	2025	2510.03204		FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents
+1	15	2024	2403.08542	10.1145/3664647.3681467	AIGCs Confuse AI Too: Investigating and Explaining Synthetic Image-induced Hallucinations in Large Vision-Language Models
+1	15	2025	2506.10387		Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills
+1	15	2024	2410.08661		QEFT: Quantization for Efficient Fine-Tuning of LLMs
+1	15	2025	2509.09420	10.1109/ICCAD66269.2025.11240984	HD-MoE: Hybrid and Dynamic Parallelism for Mixture-of-Expert LLMs with 3D Near-Memory Processing
+1	15	2025	2503.10905	10.1109/ICCV51701.2025.00339	Learning to Inference Adaptively for Multimodal Large Language Models
+1	14	2021		10.1007/978-3-030-83527-9_1	Towards User-Centric Text-to-Text Generation: A Survey
+1	14	2024	2405.15165	10.1145/3690624.3709412	SoAy: A Solution-based LLM API-using Methodology for Academic Information Seeking
+1	14	2025	2508.11733		SafeSieve: From Heuristics to Experience in Progressive Pruning for LLM-based Multi-Agent Communication
+1	14	2025	2502.12562		SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings
+1	14	2024	2411.12713		CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs
+1	14	2024	2404.10332		Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning
+1	13	2022	2208.02294		Dynamic Planning in Open-Ended Dialogue using Reinforcement Learning
+1	13	2024			Tool-Planner: Dynamic Solution Tree Planning for Large Language Model with Tool Clustering
+1	13	2026	2602.03036		LatentMem: Customizing Latent Memory for Multi-Agent Systems
+1	13	2026			ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory
+1	13	2026	2605.24050		More Skills, Worse Agents? Skill Shadowing Degrades Performance When Expanding Skill Libraries
+1	13	2025	2501.10937	10.1109/ICASSP49660.2025.10889870	Leveraging Chain of Thought towards Empathetic Spoken Dialogue without Corresponding Question-Answering Data
+1	13	2024	2412.06775		Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language Models
+1	13	2024	2409.20429		HELPD: Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding
+1	13	2024		10.24963/ijcai.2024/136	Contrastive Transformer Cross-Modal Hashing for Video-Text Retrieval
+1	13	2024	2406.03776		XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags
+1	13	2024	2404.11129	10.1145/3664647.3681552	Fact :Teaching MLLMs with Faithful, Concise and Transferable Rationales
+1	13	2023	2310.00887		GRID: A Platform for General Robot Intelligence Development
+1	13	2024	2403.01164		HeteGen: Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices
+1	12	2018		10.1038/s41598-018-28759-2	Tool Use and Generalized Motor Programs: We All Are Natural Born Poly-Dexters
+1	12	2024	2404.01342	10.1109/CVPR52733.2024.00611	DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model
+1	12	2024	2402.18157		From Summary to Action: Enhancing Large Language Models for Complex Tasks with Open World APIs
+1	12	2026	2602.11541		Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use
+1	12	2025	2510.00536		GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness
+1	12	2026	2608.08239		The Replay Gap: Static Evaluation of Model Switching in LLM Agents Scores the Wrong World
+1	12	2025	2506.04704	10.1109/CVPRF71909.2026.00575	HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model
+1	12	2025	2504.12661		VLMGuard-R1: Proactive Safety Alignment for VLMs via Reasoning-Driven Prompt Optimization
+1	12	2022	2211.09110		Holistic Evaluation of Language Models
+1	12	2024	2403.09347		BurstAttention: An Efficient Distributed Attention Framework for Extremely Long Sequences
+1	12	2024	2501.13318	10.1109/GCWkshp64532.2024.11100350	SplitLLM: Hierarchical Split Learning for Large Language Model over Wireless Network
+1	11	2023	2312.17294	10.18653/v1/2025.acl-long.845	Enhancing Open-Domain Task-Solving Capability of LLMs via Autonomous Tool Integration from GitHub
+1	11	2023	2310.10062		A Comprehensive Evaluation of Tool-Assisted Generation Strategies
+1	11	2025	2505.18098		Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL
+1	11	2025	2501.13200		SRMT: Shared Memory for Multi-agent Lifelong Pathfinding
+1	11	2025	2512.12692		WebOperator: Action-Aware Tree Search for Autonomous Agents in Web Environment
+1	11	2025	2512.01763		HiconAgent: History Context-aware Policy Optimization for GUI Agents
+1	11	2025	2510.00413		PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents
+1	11	2026	2605.24660		How Many Tools Should an LLM Agent See? A Chance-Corrected Answer
+1	11	2025	2508.05152		Tool Graph Retriever: Exploring Dependency Graph-based Tool Retrieval for Large Language Models
+1	11	2024	2410.23114		Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models
+1	11	2024	2405.20081		NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models
+1	11	2024	2402.03757	10.18653/v1/2024.emnlp-main.904	The Instinctive Bias: Spurious Images lead to Illusion in MLLMs
+1	10	2025			VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things
+1	10	2026	2602.09598		Learning from the Irrecoverable: Error-Localized Policy Optimization for Tool-Integrated LLM Reasoning
+1	10	2025	2502.11404		ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models
+1	10	2025	2510.25320		GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning
+1	10	2026	2606.03565		Skill Is Not Document: Query-Conditioned Compatibility for LLM Agent Skill Routing
+1	10	2025	2506.09079		VidBridge-R1: Bridging QA and Captioning for RL-based Video Understanding Models with Intermediate Proxy Tasks
+1	10	2024	2407.15346		Knowledge Acquisition Disentanglement for Knowledge-based Visual Question Answering with Large Language Models
+1	10	2024	2406.14492		Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?
+1	10	2024			IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves
+1	10	2024	2410.10075		RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates
+1	9	2025	2503.16779		Chain-of-Tools: Utilizing Massive Unseen Tools in the CoT Reasoning of Frozen Language Models
+1	9	2026	2606.11213		Beyond Compaction: Structured Context Eviction for Long-Horizon Agents
+1	9	2026	2603.21251		WirelessBench: A Tolerance-Aware LLM Agent Benchmark for Wireless Network Intelligence
+1	9	2025	2511.11828		Conformal Constrained Policy Optimization for Cost-Effective LLM Agents
+1	9	2026		10.1007/s10462-026-11571-0	From benchmarks to deployment: a comprehensive review of agentic AI evaluation
+1	9	2026		10.1109/tse.2026.3717765	A Survey for LLM Agent Trajectory Analysis: From Failure Attribution to Enhancement
+1	9	2025	2501.02699		EAGLE: Enhanced Visual Grounding Minimizes Hallucinations in Instructional Multimodal Models
+1	9	2024	2410.09962		LongHalQA: Long-Context Hallucination Evaluation for MultiModal Large Language Models
+1	9	2024	2409.16494		A Unified Hallucination Mitigation Framework for Large Vision-Language Models
+1	9	2024	2409.13612		FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs
+1	9	2024	2403.13513	10.18653/v1/2024.findings-emnlp.626	What if...?: Thinking Counterfactual Keywords Helps to Mitigate Hallucination in Large Multi-modal Models
+1	9	2023	2310.16042		WebWISE: Web Interface Control and Sequential Exploration with Large Language Models
+1	9	2025	2509.08342		Accelerating Mixture-of-Expert Inference with Adaptive Expert Split Mechanism
+1	8	2025	2511.01527		TPS-Bench: Evaluating AI Agents' Tool Planning \& Scheduling Abilities in Compounding Tasks
+1	8	2026	2601.03164		WebAnchor: Anchoring Agent Planning to Stabilize Long-Horizon Web Reasoning
+1	8	2025	2507.03254		CodeAgents: A Token-Efficient Framework for Codified Multi-Agent Reasoning in LLMs
+1	8	2026	2603.06859		The Trace Is the State: Exact Credit Assignment for LLM Agent Teams
+1	8	2026	2602.09138		PABU: Progress-Aware Belief Update for Efficient LLM Agents
+1	8	2024	2406.14056		VGA: Vision GUI Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning
+1	8	2024	2406.11333		Hallucination Mitigation Prompts Long-term Video Understanding
+1	8	2024		10.1109/ACCESS.2024.3403101	UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models
+1	8	2025	2505.23830		EvoMoE: Expert Evolution in Mixture of Experts for Multimodal Large Language Models
+1	8	2024	2412.13050		Modality-Inconsistent Continual Learning of Multimodal Large Language Models
+1	8	2024	2409.15520	10.18653/v1/2025.emnlp-main.1022	MobiZO: Enabling Efficient LLM Fine-Tuning at the Edge via Inference Engines
+1	7	2024			Can Graph Learning Improve Task Planning?
+1	7	2026	2601.07577		Beyond Entangled Planning: Task-Decoupled Planning for Long-Horizon Agents
+1	7	2026	2602.12662		Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents
+1	7	2026	2605.24598		Hera: Learning Long-Horizon Coordination for Device-Cloud Collaborative LLM Agents
+1	7	2026	2604.23283		Revisable by Design: A Theory of Streaming LLM Agent Execution
+1	7	2025	2511.15392		DEPO: Dual-Efficiency Preference Optimization for LLM Agents
+1	7	2026	2608.05810		When Self-Evolution Backfires: Pre-Commit Gating against Skill Contamination in LLM Agents
+1	7	2026	2606.15017		Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents
+1	7	2025	2509.20386		Dynamic ReAct: Scalable Tool Selection for Large-Scale MCP Environments
+1	7	2025	2506.09736		Revisiting Visual Understanding in Multimodal Reasoning through a Lens of Image Perturbation
+1	7	2024	2412.02946	10.1109/WACV61041.2025.00597	Who Brings the Frisbee: Probing Hidden Hallucination Factors in Large Vision-Language Model via Causality Analysis
+1	7	2024	2406.12663		Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?
+1	7	2025	2502.09921	10.1145/3779212.3790119	A Cost-Effective Near-Storage Processing Solution for Offline Inference of Long-Context LLMs
+1	7	2022	2206.10256		Human-in-the-loop Speaker Adaptation for DNN-based Multi-speaker TTS
+1	7	2023	2307.07705		CA-LoRA: Adapting Existing LoRA for Compressed LLMs to Enable Efficient Multi-Tasking on Personal Devices
+1	7	2025	2503.07663		Merge then Realign: Simple and Effective Modality-Incremental Continual Learning for Multimodal LLMs
+1	6	2024	2407.17544		MathViz-E: A Case-study in Domain-Specialized Tool-Using Agents
+1	6	2024			Calc-CMU at SemEval-2024 Task 7: Pre-Calc - Learning to Use the Calculator Improves Numeracy in Language Models
+1	6	2026	2601.05505		FlashMem: Distilling Intrinsic Latent Memory via Computation Reuse
+1	6	2025	2509.25779		Planner-R1: Reward Shaping Enables Efficient Agentic RL with Smaller LLMs
+1	6	2026	2601.07262	10.18653/v1/2026.acl-industry.46	ColorBrowserAgent: Complex Long-Horizon Browser Agent with Adaptive Knowledge Evolution
+1	6	2025	2510.27210		GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation
+1	6	2026	2608.25500		CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval
+1	6	2026	2608.04482		Skills Know Their Neighbors: Cluster-Contrastive Capability Pages for Skill Retrieval
+1	6	2026	2606.14476		When the Tool Decides: LLM Agents Defer Blindly to Graph Neural Network Tools, and Stronger Backbones Defer More
+1	6	2026	2606.10388		Right Family, Wrong Skill: Evaluating Risk Exposure in Agent Skill Retrieval
+1	5	2025	2506.23603		SoK: Semantic Privacy in Large Language Models
+1	5	2026	2604.02971		InfoSeeker: A Scalable Hierarchical Parallel Agent Framework for Web Information Seeking
+1	5	2026	2602.13933		HyMem: Hybrid Memory Architecture with Dynamic Retrieval Scheduling
+1	5	2026	2606.01365		Early Diagnosis of Wasted Computation in Multi-Agent LLM Systems via Failure-Aware Observability
+1	5	2026	2605.19932		PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents
+1	5	2026	2603.08533		SecAgent: Efficient Mobile GUI Agent with Semantic Context
+1	5	2025	2507.00210		LineRetriever: Planning-Aware Observation Reduction for Web Agents
+1	5	2026	2608.02880		Field-Aware Agent Skill Retrieval
+1	5	2026	2607.22520		The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents
+1	5	2026	2606.18467		ToolChain-CRC: Conformal Risk Control for Agentic AI Under Retrieval and Tool-Use Drift
+1	5	2024	2412.20622		Towards a Systematic Evaluation of Hallucinations in Large-Vision Language Models
+1	5	2023	2310.06692		Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models
+1	5	2025	2501.08582		LoRS: Efficient Low-Rank Adaptation for Sparse Large Language Model
+1	4	2022	2206.11812		Formalizing the Problem of Side Effect Regularization
+1	4	2024	2402.16696		Look Before You Leap: Towards Decision-Aware and Generalizable Tool-Usage for Large Language Models
+1	4	2024	2401.01780		Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering
+1	4	2025	2510.13363		D-SMART: Enhancing LLM Dialogue Consistency via Dynamic Structured Memory And Reasoning Tree
+1	4	2026	2603.19896	10.1109/JCC72984.2026.00053	Utility-Guided Orchestration for Cost-Efficient Tool-Augmented LLM Services
+1	4	2025	2505.14656		Cost-Awareness in Tree-Search LLM Planning: A Systematic Study
+1	4	2026	2605.09934		TRACER: Verifiable Generative Provenance for Multimodal Tool-Using Agents
+1	4	2026	2604.23853		ClawTrace: Cost-Aware Tracing for LLM Agent Skill Distillation
+1	4	2025	2512.02543		Inference-Time Distillation: Cost-Efficient Agents Without Fine-Tuning or Manual Prompt Engineering
+1	4	2026		10.18653/v1/2026.findings-acl.1967	ProMCP: Profiling Token Flows and Latency Costs in Model Context Protocol-Based LLM Agents
+1	4	2026	2604.01535		Read More, Think More: Revisiting Observation Reduction for Web Agents
+1	4	2025	2508.04412		Beyond Pixels: Exploring DOM Downsampling for LLM-Based Web Agents
+1	4	2026	2608.28241		Beyond Task-Only Matching: Personalized Skill Routing with Counterfactual Evaluation
+1	4	2026	2608.08640		SkillReason: Reasoning-Enhanced Agent Skill Retrieval for Implicit User Requests
+1	4	2025	2506.18071		MUPA: Towards Multi-Path Agentic Reasoning for Grounded Video Question Answering
+1	4	2024	2410.11321		Self-adaptive Multimodal Retrieval-Augmented Generation
+1	3	2024	2404.07471		Structure-aware Fine-tuning for Code Pre-trained Models
+1	3	2026	2602.13320	10.65109/GMHB4353	Information Fidelity in Tool-Using LLM Agents: A Martingale Analysis of the Model Context Protocol
+1	3	2025	2510.12838		A2FM: An Adaptive Agent Foundation Model for Tool-Aware Hybrid Reasoning
+1	3	2025	2510.26020		PORTool: Importance-Aware Policy Optimization with Rewarded Tree for Multi-Tool-Integrated Reasoning
+1	3	2025	2511.05528		SMAGDi: Socratic Multi Agent Interaction Graph Distillation for Efficient High Accuracy Reasoning
+1	3	2026	2607.17641		Verify, Repair, Repeat, or Stop? Robust Stopping for Noisy Verify-Repair Loops in LLM Agents
+1	3	2026	2607.14167		Structured Feedback Improves Repair in an LLM Agent Loop
+1	3	2026	2605.12260		PRISM: Pareto-Efficient Retrieval over Intent-Aware Structured Memory for Long-Horizon Agents
+1	3	2026	2602.04284		Agent-Omit: Adaptive Context Omission for Efficient LLM Agents
+1	3	2026	2601.02663	10.1109/SoutheastCon63549.2026.11475987	When Do Tools and Planning Help Large Language Models Think? A Cost- and Latency-Aware Benchmark
+1	3	2026	2609.26863		Towards Strategy-Level RSI for Skill-Augmented Agents: Learning When to Reuse Skills from Execution Feedback
+1	3	2026	2609.22819		Counterfactual Tool Ranking under Utility, Cost, and Privilege Constraints
+1	3	2026	2608.26846		Evaluating Confidence-Gated Retrieval with Matched Trajectory Replay
+1	3	2026	2608.18852		SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents
+1	3	2026	2608.16071		Skill2Query: Exploiting Skill Structure to Generate Pseudo-Queries for Agent Skill Retrieval
+1	3	2024	2409.14484		Effectively Enhancing Vision Language Large Models by Prompt Augmentation and Caption Utilization
+1	3	2025	2501.09767		LeMo: Enabling LEss Token Involvement for MOre Context Fine-tuning
+1	3	2025	2507.15465		Rethinking LLM Inference Bottlenecks: Insights from Latent Attention and Mixture-of-Experts
+1	3	2023	2309.02411		Delta-LoRA: Fine-Tuning High-Rank Parameters with the Delta of Low-Rank Matrices
+1	2	2024		10.1007/978-3-031-56063-7_31	Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book QA
+1	2	2025	2512.03955		Benchmark for Planning and Control with Large Language Model Agents: Blocksworld with Model Context Protocol
+1	2	2024	2410.11805		NesTools: A Dataset for Evaluating Nested Tool Learning Abilities of Large Language Models
+1	2	2026	2602.17049	10.65109/BRAG3288	IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents
+1	2	2025	2503.23959		Local Information Matters: Inference Acceleration For Grounded Conversation Generation Models Through Adaptive Local-Aware Token Pruning
+1	2	2026		10.1007/s10462-026-11678-4	Large language model agent evaluation and benchmarking: a systematic survey, meta-taxonomy, and critical research roadmap
+1	2	2026	2609.10750		When Synthetic Data Hurts: On Catastrophic Forgetting in Skill Retrieval for LLM Agents
+1	2	2026	2609.09395		The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents
+1	2	2026	2609.05824		Beyond Top-$k$ Skill Retrieval: Diversity-Aware Skill Routing for LLM Agents
+1	2	2026	2609.00549		Skill Following: Evaluating Actual Skill Use in Retrieval-Enabled LLM Agents
+1	2	2026	2609.01642		Imagine Before Acting: Prospective Skill Identification for LLM Agents
+1	2	2026	2608.22751		Risk-Aware Reranking for Agentic Tool Retrieval
+1	2	2026	2608.19303		Outcome Monitors: Recovery Affordances for Silent Tool Failures
+1	2	2026	2608.16502		When Tool-Backed Skill Retrieval Fails: Source-Style Collapse in Executable Capability Retrieval
+1	2	2026	2608.09168		From Relevance to Execution Utility: Reward-Aware Dynamic Execution Gating for Skill-Based LLM Agents
+1	2	2026	2608.21375		SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG
+1	2	2026	2602.16429		TabAgent: Distilling LLM Agent Components into Cheap Classifiers
+1	2	2025	2502.20034		Do Vision Encoders Truly Explain Object Hallucination?: Mitigating Object Hallucination via Simple Fine-Grained CLIPScore
+1	2	2024	2409.01151		Understanding Multimodal Hallucination with Parameter-Free Representation Alignment
+1	2	2024		10.18653/v1/2024.emnlp-industry.75	OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems
+1	2	2024	2406.00023		Expert-Token Resonance MoE: Bidirectional Routing with Efficiency Affinity-Driven Active Selection
+1	1	2022	2212.11353		Contrastive Distillation Is a Sample-Efficient Self-Supervised Loss Policy for Transfer Learning
+1	1	2026	2605.30898		UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling
+1	1	2026	2604.23455		CUJBench: Benchmarking LLM Agents for Browser-to-Backend Failure Diagnosis
+1	1	2026	2609.21187		When Better Turns Do Not Make Better Agents: Diagnosing the Gap Between Next-Turn Metrics and Workflow Success
+1	1	2026	2609.07785		What Does an LLM-Agent Leaderboard Rank Actually Compare?
+1	1	2024	2410.11242		Automatically Generating Visual Hallucination Test Cases for Multimodal Large Language Models
+1	1	2024			BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations
+1	1	2025	2503.10217		Efficient Federated Fine-Tuning of Large Language Models with Layer Dropout
+1	0				Star: Self-taught reasoner bootstrapping reasoning with reasoning
+1	0				Diego de Las Casas
+1	0	2023			A conversation with bing’s chatbot left me deeply unsettled
+1	0	2022			Introducing ChatGPT
+1	0	2022			Llmplanner: Few-shot grounded planning for embodied agents with large language models
+1	0	2021			GPT-J-6B: A 6 Billion Parameter
+1	0	2019			Ethical and societal implications of algorithms, data, and artificial intelligence: a roadmap for research
+1	0	2019			GLUE: A multitask benchmark and analysis platform for natural language understanding
+1	0	1996			The prehistory of the mind: The cognitive origins of art and science
+1	0				Pay attention to the requirenment about attributes and price in the instruction
+1	0				This action will disambiguate this entity name to find other entities with similar names in Wikipedia. It will return the first five entities if they exist. If not
+1	0				The Churfirsten range is located in the Canton of St
+1	0				Remember to select attributes of the commodity before buying
+1	0				rewrite_sql(sql:str) rewrites the input sql into an execution-efficient sql query. (4) select_database_data(query:str) reads the data stored in the database based on the sql query
+1	0				If a command is successfully called for two times, do not call the same command again
+1	0				Given all the information and thoughts, return the answer and finish the task. The answer should be as simple as possible, like one or two words instead of a sentence
+1	0				Long term memory management
+1	0				Internet access for searches and information gathering
+1	0				Nargar 2 Pieces Children's U-Shape Toothbrush, 360 Degree Toothbrush for Kids Cute Teeth Whitening Gums Massage Tooth Brush for 2-6 Years Old Toddlers Kids (F)
+1	0				Thought: For 3 ounce bottle of bright citrus deodorant for sensitive skin, the item has options 'bright citrus' and '3 ounce (pack of 1)' and seems good to buy. Observation: OK. Action: click
+1	0				When the search action returns a page which is not related to the question, you should disambiguate the entity to find other entities that share similar names with the current one
+1	0				deposits wake above the even, pending pinto beans
+1	0				DO NOT repeat your answer in our chat history, try some new action if current one doesn't work
+1	0				Don't search the same entity two times since the results are always the same. (2) When the search action doesn't find the corresponding page, you should try to search for a similar entity
+1	0				Hoomall Kids U-Shaped Toothbrush, Manual Toothbrush with U-Shaped Bristles Food Grade Silicone Toothbrush Head, 360°Oral Teeth Cleaning Design for Toddlers and Children
+1	0				High Plains (United States)', 'High Plains (Australia)', 'Altiplano (disambiguation
+1	0				Churfirsten is the mountain range the Selun is located in. I need to search Churfirsten and find the country it is located in
+1	0				Navigating Knowledge Graphs Instruction: 1. find_entity_by_head(inputID)
+1	0				High Plains (United States) is most likely related to the question. I need to instead search High Plains (United States)
+1	0				Retrieve the comments of suppliers. The results should be sorted in descending order based on the comments of the suppliers
+1	0				This action will look up in the current passage and return the next several sentences containing the keyword in current passage
+1	0				They are the southernmost range of the Appenzell Alps, separated from the Glarus Alps by the Seez river and Walensee
+1	0				Ginger Fresh Deodorant by Earth Mama | Natural and Safe for Sensitive Skin, Pregnancy and Breastfeeding, Contains Organic Calendula 3-Ounce
+1	0				Thought: Both B09JT3Z6JV and B08GXD5MDG are blue color toothbrushes less than 20 dollars. I can check B09JT3Z6JV. Observation: OK. Action: click
+1	0	2004			Recall, precision and average precision
+1	0				2024f. What are tools
+1	0				Pennsylvania, USA
+1	0				2024. New embeddings models and api updates
+1	0				2023c. Is chatgpt good at search? investigating large language models as re-ranking agents
+1	0				C-pack: Pack-aged resources to advance general
+1	0				He is currently a principle algorithm engineer with Baidu Inc.
+1	0				member for
+1	0				2024b. Tool-lmm: A large multi-modal model for tool agent learning
+1	0				2024b. Syntax error-free and generalizable tool use for llms via finite-state decoding
+1	0				Toolcoder: Teach code generation models to use apis with search tools
+1	0				“ClawHavoc: 341 malicious clawed skills found by the bot they were targeting,”
+1	0				“Semantic Kernel: A lightweight SDK for AI agent development,”
+1	0				“AutoGPT: An autonomous GPT-4 experiment,”
+1	0				“From automation to infection: How OpenClaw AI agent skills are being weaponized,”
+1	0				“SkillGuard: AI agent security scanner,”
+1	0				“Introducing the model context protocol,”
+1	0				“Agent skills guard,”
+1	0				2026. EET:Experience-DrivenEarlyTerminationforCost-Efficient Software Engineering Agents
+1	0				2024. AgentBoard:AnAnalytical Evaluation Board of Multi-turn LLM Agents
+1	0				Acomplete TrajectoryRecord aggregates events
+1	0				2025. WebRollback:EnhancingWebAgentswithExplicitRollback Mechanisms
+1	0				2024. Visu-alWebArena:EvaluatingMultimodalAgentsonRealisticVisualWebTasks
+1	0				2024. A Survey on Efficient Inference for Large Language Models
+1	0				2025. SWE-Effi: Re-Evaluating Software AI Agent System Effectiveness Under Resource Constraints
+1	0				2026.CostBench:EvaluatingMulti-TurnCost-OptimalPlanningand
+1	0				2025. Shapley-Coop: Credit Assignment for Emergent Cooperation in Self-InterestedLLMAgents
+1	0				AdaptationinDynamicEnvironmentsforLLMTool-UseAgents
+1	0				2026. Nash-PrunedCredMAS:DynamicPanelPruningforVLM-MASUsingNash-Based Selection and Doubly-Robust Credits
+1	0				2025. TPS-Bench: Evaluating AI Agents’ Tool Planning and Scheduling Abilities in Compounding Tasks
+1	0				2026. Stop Wasting Your Tokens: Towards Efficient Runtime Multi-Agent Systems
+1	0				2024.OSWorld:BenchmarkingMultimodalAgentsforOpen-EndedTasksinRealComputerEnvironments
+1	0	2026			Guiguard: Toward a general framework for privacy-preserving gui agents
+1	0				2024. GUI agents: A survey
+1	0				2026. Longhorizonui: A unified framework for robust long-horizon task automation of gui agent
+1	0				2025. A comprehensive survey of agents for computer use: Foundations, challenges, and future directions
+1	0				2025c. Difficulty-aware reasoning for mobile gui automation via reinforcement fine-tuning
+1	0				2026. Senseact: Structuring gui actions for reliable planning and verification
+1	0				2026. Polyskill: Learning generalizable skills through polymorphic abstraction for continual learning
+1	0				2025b. Mobilewizard: A data-efficient gui agent with structured reasoning and progressive reinforcement learning
+1	0				2024. The BrowserGym ecosystem for web
+1	0				2026a. Efficient long-horizon gui agents via training-free kv cache compression
+1	0				2025b. Ultracua: Scaling computer use agent through gui and programmatic control
+1	0	2024			AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents
+1	0				a reporting checklist that links each item to the applicable designs, and a set of open problems (Section 5)
+1	0				an analysis of interpretations that
+1	0				2025/file/663865ea167425c6c562cb0b6b cf76c7-Paper-Conference
+1	0	2023			Let's Think Frame by Frame with VIP: A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought
+1	0	2020			spacy: Industrial-strength natural language processing in python
+1	0	2002			Nltk: The natural language toolkit cs/0205028
+1	0				A chatgpt-prompted visual hallucination
+1	0				Mmrel: A relation understanding dataset and benchmark in the mllm era
+1	0				Eliminating hallucinations in lvlms by zeroing out hallucinatory image tokens
+1	0				An open-source chatbot impressing gpt-4 with 90%*
+1	0				Multimedeval
+1	0				Llava-next: Stronger llms supercharge multimodal capabilities in the wild
+1	0				Improving zero-shot and few-shot
+1	0				Iterative retrieval augmentation for multi-modal knowledge integration and generation
+1	0		2312.11805		
+1	0	2024	2411.08244		NVCiM-PT: An NVCiM-assisted Prompt Tuning Framework for Edge LLMs
+1	0	2025	2503.20020		Gemini Robotics: Bringing AI into the Physical World
+1	0	2024	2412.19437		DeepSeek-V3 Technical Report

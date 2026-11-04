@@ -1,0 +1,8 @@
+{"window": ["20230101","20261031"],
+ "queries": {
+  "Q1": "abs:\"tool use\" AND (abs:efficien* OR abs:cost OR abs:latency OR abs:token)",
+  "Q2": "abs:\"function calling\" AND (abs:LLM OR abs:\"language model\")",
+  "Q3": "abs:\"tool retrieval\" OR abs:\"tool selection\"",
+  "Q4": "abs:\"tool learning\" AND (abs:LLM OR abs:\"language model\")",
+  "Q5": "abs:\"tool calling\" AND (abs:agent OR abs:LLM)"},
+ "title_regex": "\\b(tools?|tool-use|function[- ]calling|API|APIs|MCP)\\b"}
