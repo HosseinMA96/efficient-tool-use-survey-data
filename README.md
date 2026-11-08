@@ -1,7 +1,7 @@
 # Data and scripts for "Efficient Tool Use for Agentic AI" (survey)
 
 Supporting data for the survey *Efficient Tool Use for Agentic AI: A Survey and an Analytical Cost
-Model for Tool-Using LLM Agents* (H. Mohasel Arjomandi, preprint, November 2026).
+Model for Tool-Using LLM Agents* (H. Mohasel Arjomandi and A. GhaffarTehrani, preprint, November 2026).
 Survey cutoff: October 31, 2026. Archived version: [10.5281/zenodo.23938631](https://doi.org/10.5281/zenodo.23938631).
 
 This repository contains the literature harvest and screening sheet, the coverage-check decisions,
