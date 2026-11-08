@@ -81,5 +81,5 @@ Scripts: MIT. Data in `data/`: CC BY 4.0. See `LICENSE`. Third-party datasets ke
 
 Please cite the survey (arXiv identifier to be added) and this repository:
 
-H. Mohasel Arjomandi, *Data and Scripts for "Efficient Tool Use for Agentic AI"*, version 1.1, Zenodo, 2026.
+H. Mohasel Arjomandi and A. GhaffarTehrani, *Data and Scripts for "Efficient Tool Use for Agentic AI"*, version 1.1, Zenodo, 2026.
 DOI: [10.5281/zenodo.24062921](https://doi.org/10.5281/zenodo.24062921) (all versions: [10.5281/zenodo.23938630](https://doi.org/10.5281/zenodo.23938630))
