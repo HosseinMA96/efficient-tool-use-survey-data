@@ -1,0 +1,7 @@
+n,arxiv_id,stratum,first_author,second_author,resolution,cited_after,rationale
+12,2510.14453,B,include,exclude,cite_as_context,yes,"Original Natural Language Tools paper; reports accuracy and variance, no cost measure, but it is the method behind the cited replication (somma2026remarkable), which reports a 25.2% token reduction; cited as johnson2025nlt in Sec. VII"
+27,2609.14138,C,exclude,include,exclude,no,"Memory replay and inference-budget allocation for lifelong agents; tool use not central (as in screening_adjudication.csv)"
+36,2606.02483,A,include,exclude,retain_cited,yes,"Privacy of speculative tool calls; speculative calling is an invocation method; cited for robustness, which the written criteria do not name"
+46,2602.21517,B,exclude,include,exclude,no,"Chest X-ray agent that learns which tool to trust; domain application without a cost bearing (in_scope_no_cost in screening_adjudication.csv)"
+51,2609.17464,C,exclude,include,exclude,no,"Analytic model of multi-agent decomposition fit on deep-research traces; tool calls are trace data only (out_of_scope in screening_adjudication.csv)"
+77,2602.11574,C,include,include,cite,yes,"Not a disagreement: both authors include under the written criteria; earlier adjudication (out_of_scope) overruled. Per-query choice of workflow, tools and token budget, budget-matched comparison; cited as taparia2026arc in Sec. VI"

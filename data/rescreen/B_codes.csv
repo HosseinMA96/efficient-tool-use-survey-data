@@ -1,0 +1,649 @@
+id,code,lever,note
+2310.15542,X,,not LLM tools
+2402.05977,X,,not LLM tools
+2407.12871,T,models,meta-task augmentation; accuracy
+2407.13945,E,invocation,state-tracked constrained decoding; efficient API call generation
+2410.17950,E,benchmark,HubSpot CRM benchmark; latency and cost vs OpenAI/Anthropic (vendor)
+2412.05967,T,other,language hooks; accuracy
+2412.15495,T,models,TL-Training; accuracy
+2505.01399,X,,robot grasping
+2505.07512,T,models,self-improving tool learning; data cost
+2505.20016,T,models,token-level preference alignment
+2506.14728,E,models,training-free agent distillation into smaller models via MCP boxes
+2506.19998,T,other,tool generation from API docs
+2507.10630,T,other,KG2data meteorology application
+2508.04086,T,models,efficient dataset generation (data cost only)
+2508.04604,T,other,industrial AI search agent
+2508.16260,E,benchmark,MCPVerse; 550 tools; action space >140k tokens (catalog stress)
+2509.19369,E,models,SLM agent with batch plan and limited replanning (Korean)
+2509.20415,E,selection,online-optimized tool retrieval embeddings
+2510.01279,E,planning,TUMIX; confidence halting keeps performance at 49% inference cost
+2510.02044,E,invocation,streaming tool use to cut latency in speech dialogue
+2510.08567,T,models,multimodal agent tuning
+2510.22898,T,benchmark,generalization benchmark MAVEN; accuracy
+2510.26167,T,models,tool-use reward models
+2511.09148,T,models,LoopTool data-training loop
+2511.19661,T,models,faithful visual tool use
+2512.13860,T,selection,documentation refinement for accuracy
+2601.19914,T,models,synthetic multi-turn data
+2601.10355,T,models,trajectory synthesis from text
+2602.00028,T,other,edge video-processing application
+2601.13653,T,other,time-series application
+2601.16280,T,benchmark,reliability diagnostics
+2602.02548,T,other,GUI agent tool tokens
+2601.23132,T,other,MCP manifest security
+2602.02050,E,models,entropy-based rewards; 72.07% fewer tool calls
+2602.02160,T,models,task decomposition RL
+2602.04157,T,other,robot conversation application
+2602.04935,T,other,activation steering for tool mode
+2602.08082,T,other,hallucination guardrail
+2602.14798,E,other,overthinking-loop attack inflating tokens and latency via MCP tools
+2603.00718,E,benchmark,SkillCraft; skill reuse cuts tokens up to 80%
+2603.01436,X,,robot manipulation
+2603.15309,T,benchmark,constrained tool use benchmark
+2603.19328,T,benchmark,safety-success tradeoff on tau-bench
+2603.22862,E,survey,survey of multi-tool agents incl. cost
+2603.30031,E,planning,decision-theoretic stopping of tool queries; time-to-action
+2604.04847,E,benchmark,full-duplex voice tool-use benchmark incl. latency
+2605.27378,T,other,dental agent application
+2604.08545,E,models,HDPO; tool invocations reduced by orders of magnitude
+2604.09455,T,models,TIR warm-up training
+2604.10261,T,benchmark,DAG tool-chain benchmark
+2604.10352,T,context,harness virtual memory; fault elimination
+2604.22985,T,other,uncertainty quantification
+2605.00136,T,benchmark,tool-use tax (accuracy)
+2605.00737,E,planning,call-or-not framework; necessity utility affordability
+2605.04107,E,selection,deterministic tool-schema compression >=51%
+2605.06483,T,other,NL-to-STL application
+2605.06890,T,other,interpretability of tool decisions
+2605.08399,E,selection,co-evolving tool library under fixed context budget
+2605.09544,T,benchmark,TIR benchmark
+2605.09730,T,other,pre-execution refinement
+2605.09734,T,models,continual tool-use learning
+2605.11030,T,benchmark,executable benchmarking suite (web/code)
+2605.12481,T,other,GUI vs tool path selection
+2605.13989,E,models,42M-parameter LM with native MCP tool use
+2605.14038,E,planning,model-adaptive tool necessity; 26-54% call/necessity mismatch
+2605.14102,E,other,orchestration-overhead ablation (GAIA)
+2605.15077,E,invocation,AsyncFC future-based asynchronous function calling
+2605.23278,T,other,theory of next-token prediction
+2607.19356,T,other,runtime safety monitor
+2605.28876,E,context,benchmark of log-reduction tools for agent context
+2605.27995,E,benchmark,AsyncTool; asynchronous calling under tool latency
+2605.28532,E,planning,infeasibility detection to stop early and save execution cost
+2606.01801,E,planning,MetaForge; invocation-cost penalty; accuracy and efficiency
+2606.02132,E,models,EAPO; penalizes redundant tool calls
+2606.02357,T,benchmark,multimodal tool-use gains
+2606.05784,T,models,credit assignment for search agents
+2606.06284,E,selection,causal minimal tool filtering; token cost
+2606.12634,T,models,credit distillation
+2606.12674,E,models,EvoFlux; compact 1.5-4B agents repair tool plans
+2606.16813,E,selection,goal-state inference for minimal tool filtering
+2606.17573,T,other,transactional runtime
+2606.18037,T,other,provenance verification
+2606.19047,T,models,online data synthesis for RL
+2606.22916,T,other,intent-governed authorization
+2606.25605,T,other,tool suppression under JSON constraints
+2606.26027,T,models,RL collapse
+2606.31392,T,models,reflection RL
+2607.00436,E,context,output-access protocol reduces token cost
+2607.03953,E,invocation,NLT replication across 14 models; token reduction
+2607.04395,T,other,kernel generation application
+2607.07050,T,models,distillation drift
+2607.19339,T,other,zoom-in tool for long audio-video
+2607.29250,T,models,function-calling data generation for SLMs
+2608.02650,E,planning,HyperAgent; fewer API calls LLM interactions tokens on AppWorld
+2608.05738,X,,VLA robotics
+2608.06057,T,benchmark,misleading histories
+2608.06270,T,other,causal audit of visual tool use
+2608.08654,E,other,MCP vs CLI cost across 7 scaffoldings and 5 models
+2608.10037,E,selection,DOCSCHISEL documentation optimization; token overhead
+2608.09682,T,other,text scaffolds for visual reasoning
+2608.10438,E,invocation,diffusion-native asynchronous tool runtime
+2608.11110,T,benchmark,cross-lingual policy retention
+2608.26189,T,benchmark,invocation-level reliability
+2608.26199,T,benchmark,hardware design MCP with local models
+2608.25198,E,planning,steerable tool-call rates
+2608.25559,E,planning,AdaVDR avoids unnecessary video tool calls
+2608.27092,T,other,prompt injection
+2608.29397,T,benchmark,AlgoWorlds optimization benchmark
+2609.00052,T,other,API provider auditing
+2608.30952,E,planning,single policy at one invocation vs tree search
+2609.00967,E,planning,CoBRA learns when to call
+2609.02690,T,other,MCP execution trust
+2609.04773,T,models,teacher anchoring distillation
+2609.05876,T,other,forensic agent application
+2609.27542,T,other,control-token injection attack
+2609.28003,T,models,graph memory for SLM tool agents (reliability)
+2609.29073,T,other,spatial reasoning tools for VLM
+2609.30698,T,other,misinformation verification agent
+2609.32042,E,models,quantization 8-bit to 2-bit effects on agentic tool use
+2609.34151,E,selection,tool-space self-evolution reduces irrelevant context
+2609.36679,T,models,diagnostic tool learning for ML agents
+2609.37196,T,other,authorization defense
+2609.37315,E,benchmark,executable-contract audit of tool-use benchmarks
+2610.02142,T,benchmark,diagnostics for SLM tool-use claims
+2610.07781,E,models,8-bit vs 4-bit quantization and tool-failure recovery
+2610.10590,E,context,agent-controlled forgetting of tool results
+2610.09037,T,other,governor backoff
+2610.09112,T,benchmark,geospatial benchmark
+2610.09624,T,other,tool-call decision mechanism
+2610.09793,T,other,runtime verification
+2610.11030,T,other,policy gates
+2610.17039,T,other,procedural shielding
+2610.21571,E,planning,tool graph memory gains cost over twice the LLM calls
+2610.23077,T,other,workflow attack
+2610.24194,E,planning,act/gather/escalate trade-off against interaction cost
+2610.25693,T,models,on-policy distillation credit
+2610.25985,E,models,small-model next-hop router replaces per-hop LLM decisions
+2610.30041,E,context,soft skills replace long skill descriptions
+2610.31013,E,selection,retrieval vs LLM tool routing incl. routing latency (robotics)
+2610.32648,E,planning,pre-execution hallucinated-call detection; recovery costs 3 steps and 22.4K tokens
+2610.36570,T,other,consequence-aware execution
+2312.14302,T,other,GPT-4 API red-teaming
+2312.17122,T,other,causal tools application
+2402.10051,T,other,black-box tool grounding
+2402.10466,T,other,DST via function calling
+2404.01549,E,models,Octopus on-device 2-7B function-calling models
+2407.17915,T,other,jailbreak via function calling
+2409.06949,T,other,game master application
+2409.15934,T,benchmark,test generation
+2411.14054,T,benchmark,Korean tool-use dialog benchmark
+2412.01130,T,models,prompt formats and data
+2412.16516,T,benchmark,HammerBench
+2412.17754,T,models,adversarial datasets
+2501.13921,T,models,Breeze2 model family
+2502.00032,T,benchmark,database querying via function calling
+2502.08820,T,models,CoALM
+2503.07826,T,models,Magnet data synthesis
+2503.10941,T,other,graph function calling
+2503.10970,T,other,TxAgent
+2504.20348,E,models,CarbonCall sustainability-aware function calling on edge devices
+2505.10495,T,models,synthetic data router
+2505.20192,T,models,FunReason
+2505.24197,T,other,learning API functionality from demos
+2506.08757,T,other,nuclear plant application
+2506.13977,T,benchmark,CRITICTOOL
+2506.22853,T,benchmark,DICE-BENCH
+2506.23394,T,models,Bulgarian tool use
+2507.08877,E,models,ODIA distillation to smaller models; latency -45%/-78%
+2507.10593,E,invocation,ToolRegistry; concurrency mode up to 3.1x throughput; progressive disclosure
+2508.02979,E,invocation,protocol-agnostic integration; concurrency up to 3.1x (same system as 2507.10593)
+2508.05118,T,models,EGPO
+2508.15214,T,other,experience recall
+2508.20931,T,other,input reformulation on tau-bench
+2509.04518,T,models,GRPO for SLM tool use
+2509.08863,T,other,GeoJSON agents
+2509.16268,T,other,causal analysis of FC
+2509.18076,T,other,structured templates
+2509.18420,T,benchmark,IFEval-FC
+2509.25378,T,other,API misuse detection
+2509.26553,T,benchmark,FuncBenchGen
+2510.14162,T,other,financial DB application (vetted queries)
+2510.14703,T,other,ToolPRM inference scaling for accuracy
+2510.24645,T,models,FunReason-MT data
+2512.00332,T,other,multi-turn vulnerability
+2512.21414,T,other,medical image tool bottleneck
+2512.23611,T,models,InfTool data synthesis
+2601.00268,T,benchmark,WildAGTEval
+2601.05366,T,benchmark,multilingual tool calling
+2601.06937,T,benchmark,mind_call dataset
+2601.09292,T,other,blue teaming
+2601.18282,T,other,think-augmented FC
+2602.03022,E,models,STAR; distillation into super-tiny function-calling models
+2602.03025,T,models,RC-GRPO
+2602.15197,T,benchmark,OpaqueToolsBench
+2603.16901,E,models,270M FunctionGemma Arabic function caller
+2603.05553,T,models,EigenData
+2604.05387,T,other,financial QA application
+2605.28835,T,models,GenesisFunc data
+2604.11557,T,benchmark,UniToolCall
+2604.20316,T,models,R2IF
+2604.20994,T,robust,function hijacking attack
+2605.00060,T,other,drilling application
+2605.21781,T,other,prompt tuning via FC
+2606.25819,T,benchmark,ToolBench-X unreliability
+2606.28061,T,benchmark,privacy benchmark
+2607.00481,T,other,jailbreak
+2607.04034,T,other,IDK filter
+2608.05126,T,other,spoken function calling
+2608.11715,T,models,multilingual post-training
+2608.11977,T,benchmark,Bench2Robust
+2608.27750,T,other,probe-based error detection
+2609.09072,T,models,ToolLoop data
+2609.21967,T,models,full-duplex speech model with tool calls
+2609.29050,T,models,SLCA-GRPO
+2609.30717,T,benchmark,RecToolBench
+2610.10062,T,benchmark,fault detection and recovery
+2610.23342,T,other,interface drift repair
+2302.08884,X,,quantum toolkits
+2308.12982,X,,music tools survey
+2403.03808,X,,robot tool selection
+2405.04533,T,other,ChatHuman
+2406.10940,X,,data quality tools review
+2410.12004,T,selection,Toolken+ reranking and reject
+2410.13610,T,other,medical calculators
+2410.17657,T,benchmark,clinical agent bench
+2410.22457,T,other,task decomposition metrics
+2411.04535,T,selection,TECTON meta-reasoning selection
+2411.09613,E,selection,task-aligned tool set size and quality for the prompt
+2502.18990,T,models,GenTool
+2503.10071,T,other,ATLASS tool generation
+2503.16779,E,selection,Chain-of-Tools; massive unseen tools without in-prompt demos
+2504.04809,T,robust,SEEM attack on tool selection
+2505.13176,T,benchmark,ToolSpectrum personalization
+2505.20289,T,selection,VisTA visual tool selection RL
+2505.21413,T,other,RefTool
+2505.22146,X,,cognitive tool selection
+2506.01276,T,other,schema as tools for IE
+2506.07551,T,other,CheMatAgent
+2506.14763,X,,robot tool design
+2507.02137,X,,sentiment tools
+2507.11371,T,models,rare-tool diversity RL
+2507.20280,T,other,SciToolAgent
+2508.05888,E,selection,KG-based tool retrieval for enterprise planning
+2508.07690,E,selection,inductive tool retrieval (tools exceed input length)
+2508.13774,T,selection,DraCor MCP docstring engineering (qualitative)
+2508.19323,X,,steganography tools
+2509.01560,T,other,API graph dataset
+2509.05933,T,other,MapAgent
+2509.11626,T,other,enterprise API tool enrichment
+2510.00023,T,models,ToolBrain
+2510.00161,T,other,TAMA
+2510.00307,T,robust,tool-selection bias
+2510.03992,T,robust,certification of tool selection
+2510.06664,T,selection,ToolMem capability memory
+2510.07768,T,other,ToolLibGen tool creation
+2510.17843,E,selection,GRETEL execution-validated tool retrieval
+2510.14453,T,invocation,NLT original (accuracy and variance only)
+2510.19286,E,benchmark,TheMCPCompany 18k tools; cost with ground-truth vs retrieved tools
+2511.00074,E,selection,ScaleCall enterprise tool retrieval
+2511.00457,T,other,GraphChain
+2511.10037,E,planning,planner-centric global DAG plan-execute
+2511.11933,T,benchmark,InData
+2511.19773,T,models,VISTA-Gym
+2512.00672,T,benchmark,ML-Tool-Bench
+2512.06556,T,robust,descriptor-level MCP attacks
+2512.13278,T,selection,AutoTool dynamic selection
+2512.14157,T,other,medical think-with-images
+2512.23780,X,,automotive testing tools
+2512.24565,E,benchmark,MCPAgentBench task completion and execution efficiency
+2601.04122,X,,bioinformatics tools
+2601.05214,T,other,hallucination indicators
+2601.07107,T,models,MedVistaGym
+2601.10454,X,,astronomy broker tool
+2601.12680,T,models,MetaToolAgent
+2601.13812,X,,physics education
+2601.18631,T,models,AdaReasoner
+2602.05366,E,selection,multi-field tool retrieval
+2602.18914,T,other,MCP description smells
+2603.01620,T,models,ToolRLA
+2603.08262,T,benchmark,FinToolBench
+2604.06205,E,models,Tool-MCoT small model for moderation (cost/latency)
+2603.28786,X,,student AI tools survey
+2604.01532,T,benchmark,PHMForge
+2604.07536,T,robust,tool poisoning defense
+2604.07816,E,selection,tool retrieval bridge for vague instructions
+2604.10015,T,benchmark,FinTrace
+2604.13787,E,selection,ToolOmni proactive open-world retrieval
+2604.13822,T,other,UI-Copilot
+2604.14951,E,selection,RaTA-Tool multimodal tool retrieval
+2604.19821,T,other,JTPRO
+2604.19907,E,planning,SceneOrchestra full trajectory generation avoids step-wise invocations
+2604.26511,T,other,alignment faking via tool selection
+2606.07538,E,selection,remote-sensing tool retrieval (docs exceed context)
+2604.27233,T,other,reviewer agent
+2607.16203,X,,OCR engine selection
+2605.05411,X,,robot tool use
+2605.07103,T,other,ARMOR chemistry
+2605.07990,T,other,tool vectors steering
+2605.11706,T,planning,GRAFT graph-tokenized planning (accuracy)
+2605.13119,X,,VLA robotics
+2605.13391,E,selection,RS-Claw progressive tool exploration balancing context load
+2605.21392,T,other,MCP server vulnerabilities
+2605.28862,T,other,lead optimization
+2605.24660,E,selection,how many tools to show; chance-corrected shortlist size
+2605.26154,T,robust,memory-poisoning tool hijacking
+2605.26637,T,other,embodied tool protocol
+2605.26691,T,other,medical tool failures
+2605.29271,E,selection,CoHyDE tool retrieval
+2605.29561,E,selection,ParaTool tool knowledge in parameters to cut in-context overhead
+2606.01416,T,other,self-healing orchestrator (recovery budgets; success only)
+2606.03907,X,,coding-tool build-vs-buy protocol
+2606.04494,E,selection,BioManus graph retrieval; context compression decoupled from tool count
+2606.04579,T,models,SCI-PRM
+2606.12451,E,selection,audit of parametric tool retrieval
+2606.10803,X,,physical tool use by MLLMs
+2606.11425,T,other,jailbreak tool library
+2606.11702,T,benchmark,MedCTA
+2606.20023,T,robust,over-privileged tool selection
+2606.22840,E,models,response-level speculative cascade; API cost -45.8% on agentic coding
+2606.23112,T,models,divergence-point preference learning
+2607.22639,E,selection,parametric tool retrieval fast enough for real time
+2606.30317,T,other,MCP server architecture patterns
+2607.15593,E,selection,cloud-scale MCP tool access; tokens and latency of large tool sets
+2607.15696,E,selection,counterfactual task decomposition for tool retrieval
+2607.17751,E,selection,MagicSelector dynamic top-K tool retrieval
+2607.19739,T,other,recommendation agent
+2607.25993,T,other,remote-sensing multi-tool reasoning
+2607.26992,X,,particle packing tools
+2608.03403,T,other,experience-driven guidance
+2608.03468,T,planning,ToolLIFT function-level graphs
+2608.04719,T,benchmark,canary tools
+2608.19148,X,,color palette tools
+2608.22339,T,other,skill memory
+2608.23635,T,benchmark,ToolRobustBench
+2608.22751,T,robust,risk-aware tool retrieval
+2608.24509,E,benchmark,PeakBench parallel and resource-aware tool invocation
+2608.30288,T,other,knowledge extraction via tools
+2608.30696,T,other,scientific visualization tools
+2609.05116,X,,aircraft hand tools
+2609.05818,T,benchmark,ABLE
+2609.07586,T,other,repository chatbot
+2609.16268,T,models,spurious tool use
+2609.19425,T,benchmark,tool hallucination
+2609.24161,E,benchmark,MCP-GRANITE tool granularity on edge; latency and resources
+2609.28693,E,selection,progressive skill discovery avoids oversized context
+2609.31234,T,other,remote-sensing tool routing
+2609.35673,X,,image retouching
+2609.35732,T,benchmark,post-failure reporting
+2610.02206,T,benchmark,KaliBench
+2610.03213,T,other,SLM intent matching oversight
+2610.04378,T,robust,COPEX adversarial MCP context
+2610.04409,T,other,hallucination escape
+2610.05009,E,other,tool abstraction level for RCA agents; time per case halved
+2610.07885,X,,ECG tools
+2610.20388,T,selection,zero-shot tool selection validity
+2610.25372,T,robust,tool poisoning
+2309.16090,T,other,conceptual tools
+2402.11903,T,other,differential logic layer
+2405.15114,T,other,ToolRec
+2407.03007,T,benchmark,stability of tool learning
+2409.13202,T,models,CITI
+2410.11805,T,benchmark,NesTools
+2412.03096,T,other,empathetic tool calling
+2502.01083,T,other,tool unlearning
+2502.11358,T,robust,information theft attack
+2502.11404,T,other,ToolCoder
+2502.18980,T,benchmark,PEToolBench
+2503.01940,T,models,AskToAct clarification
+2503.03802,T,other,RiskAgent
+2503.20527,T,benchmark,MirrorAPI simulated APIs
+2504.01400,T,models,ToolACE-R
+2504.06766,T,benchmark,FamilyTool
+2505.08617,T,models,OpenThinkIMG
+2505.11833,T,benchmark,ToLeaP platform
+2505.17106,T,robust,red teaming reasoning LLMs
+2508.20755,T,other,theory of in-tool learning
+2509.14718,T,models,ToolSample
+2511.15370,T,other,science-of-science review
+2512.16149,T,models,ToolForge
+2512.20934,T,other,visual programming tool libraries
+2602.14098,T,other,forgery detection tools
+2603.24051,T,models,FinToolSyn
+2604.00835,E,survey,survey of agentic tool use paradigms (comparison table)
+2604.17739,T,models,TRUSTEE simulated environments
+2606.09371,T,models,CAHL
+2609.20082,T,models,MATCH
+2404.17897,T,other,medication consultation
+2407.04997,T,other,prompt-only tool calling
+2410.18447,T,models,ToolFlow
+2410.19385,T,other,hallucination and tools
+2410.19419,X,,storytelling app
+2502.12460,X,,access-control policy tool
+2504.02882,T,models,DiaTool-DPO
+2505.04072,T,benchmark,personalized tool invocation
+2505.08402,T,other,TUMS
+2505.16113,T,other,uncertainty with tools
+2505.16986,T,benchmark,T1 dataset
+2506.00042,T,other,HiTEC
+2506.11266,T,benchmark,Live API-Bench
+2506.12115,T,other,cognitive tools
+2506.14248,T,models,tool token learning
+2506.19171,T,models,distilling tool knowledge (no tool at inference)
+2507.01489,T,models,agent-as-tool
+2507.03018,T,models,OpenTable-R1
+2507.03336,T,models,DiaFORGE
+2507.15268,T,other,injection molding application
+2509.06980,T,models,RLFactory
+2509.13352,T,other,agentic UAVs
+2509.11963,T,models,ToolRM outcome reward
+2509.13761,T,models,THOR
+2509.18847,T,models,structured reflection
+2510.01260,T,benchmark,IoT-MCP (response time reported; application)
+2509.20957,T,models,Arabic tool calling
+2509.23285,E,models,Tool-Light efficient tool-integrated reasoning (call count)
+2509.25624,T,robust,STAC attack chains
+2510.01698,T,other,music recommendation
+2510.06857,T,other,autoformalizer
+2510.07038,T,models,TAPO
+2510.09093,T,robust,web search exfiltration
+2510.10931,T,models,proof-of-use
+2510.12838,E,models,A2FM instant mode and cost-regularized reward avoid unnecessary tool calls
+2510.17874,T,other,post-execution repair
+2510.17052,T,other,ToolCritic
+2511.07426,E,other,network and systems characterization of MCP agents; token inflation and cost
+2510.19186,T,benchmark,TRACE dialogue evaluation
+2510.23853,T,benchmark,TicToc temporal blindness
+2510.24663,T,models,OrchDAG
+2510.26020,T,models,PORTool
+2511.01527,E,benchmark,TPS-Bench tool planning and scheduling efficiency
+2511.03497,T,other,ROSBag MCP server
+2511.14903,T,other,LIT inspectable tools
+2511.17729,T,benchmark,M3-Bench
+2511.21510,T,benchmark,Tool-RoCo
+2512.01559,T,other,music post-production
+2512.05111,T,models,ARM-Thinker
+2512.07132,T,other,DART
+2601.00809,T,other,BIM MCP architecture
+2512.22673,T,benchmark,TravelBench
+2512.23412,T,models,MindWatcher
+2601.02643,T,other,infeasibility resolution
+2601.03872,T,other,ATLAS model-tool orchestration
+2601.04795,T,robust,IPI defense via result parsing
+2601.05101,T,benchmark,Arabic tool calling benchmark
+2601.05960,E,other,memory-as-a-tool amortizes inference-time refinement cost
+2601.06860,E,models,ET-Agent calibrates redundant and insufficient tool calls
+2601.07696,T,benchmark,meta-level reasoning QA
+2601.10712,T,models,MatchTIR
+2601.12449,T,robust,AgenTRIM
+2601.12762,T,models,ToolMaster
+2601.12967,E,invocation,Sutradhara orchestrator-engine co-design; tool calls 30-85% of latency
+2603.05515,T,benchmark,ITC dataset
+2601.14696,E,models,AdaTIR difficulty-aware tool budgets
+2601.15625,T,models,Fission-GRPO
+2601.20144,T,models,Trajectory2Task
+2601.20323,E,models,on-device ECG tool-calling agent
+2601.22037,E,planning,meta-tools from recurring tool-call sequences cut cost and latency
+2601.22352,T,other,recoverability law
+2602.04246,T,other,latent reasoning as tool calls
+2602.09598,T,models,ELPO
+2602.13320,T,other,error propagation theory for MCP
+2602.13332,T,other,clinical video reasoning
+2602.11304,T,benchmark,CryptoAnalystBench
+2604.06185,T,benchmark,tool use in the wild
+2602.14295,T,other,ML as a tool
+2602.16246,T,benchmark,proxy state-based evaluation
+2602.16943,T,benchmark,GAP text vs tool-call safety
+2602.18773,T,other,pathology agent
+2602.19218,T,other,Gecko simulation
+2602.21320,T,models,Tool-R0
+2602.21517,T,models,chest X-ray agent
+2603.10060,T,other,tool receipts
+2603.09843,T,other,RecThinker
+2603.10749,T,robust,AttriGuard
+2603.11495,E,selection,Tool-DC divide-and-conquer over massive candidate tools
+2603.12621,T,other,AEGIS firewall
+2603.14283,T,other,API attestation
+2603.18245,T,benchmark,SafeAudit
+2603.18614,E,benchmark,ZebraArena optimal query count; GPT-5 uses 70-270% more calls
+2603.20449,T,other,solver-aided compliance
+2603.20953,T,other,pre-action authorization
+2603.22148,T,other,OpenEarth tool creation
+2603.27277,E,context,Codebase-Memory knowledge graph via MCP; ten times fewer tokens
+2603.29902,T,benchmark,ATP-Bench
+2604.01610,T,other,GraphWalk KG navigation
+2604.02869,T,models,MT-GRPO customer service
+2605.12521,T,models,ToolWeave
+2604.04017,T,benchmark,GeoBrowse
+2604.04035,T,robust,causality laundering
+2604.05432,T,robust,backdoored tool use
+2604.07927,T,other,EigentSearch-Q+ (accuracy only)
+2604.08388,T,models,Lean agentic data
+2604.09360,T,other,cross-provider API translation
+2604.11790,T,robust,ClawGuard
+2604.12896,T,other,perception programs
+2604.22821,T,benchmark,Audio2Tool
+2604.16706,T,benchmark,AgentProp-Bench
+2604.16870,T,other,Governed MCP
+2604.17886,T,benchmark,MPT personalized tool calling
+2604.18356,T,other,ComPASS
+2604.18834,T,other,EDA structural verification
+2605.28840,T,benchmark,behavioral consistency
+2605.00876,T,other,GAZE MRI
+2605.02584,E,planning,network procedures as tool-call sequences; latency of four execution approaches
+2605.04785,T,other,AgentTrust
+2605.05758,T,models,BioTool
+2605.06334,T,benchmark,MANTRA compliance
+2605.06897,T,benchmark,MIST smart home
+2605.07414,T,robust,OrchJail
+2605.08477,E,planning,full-horizon vs step-wise planning; 2-3x fewer tokens
+2605.09934,T,other,TRACER provenance
+2605.11053,T,other,MCP attack detection
+2605.11234,T,other,ontology-grounded tools
+2605.11928,T,benchmark,RobustBench-TC
+2605.13228,T,other,ReTool-Video
+2605.15104,T,benchmark,text-to-voice evaluation
+2605.16079,T,models,VideoSeeker
+2605.17558,T,models,Firefly data
+2605.20342,E,invocation,ParaVT parallel video tool calls in one turn
+2605.22564,T,benchmark,SynAE
+2605.23826,T,other,ToolMerge keyframes
+2605.24941,T,benchmark,memory-induced tool drift
+2605.25310,T,other,dependency probing
+2605.30521,T,robust,mock tool call quarantine
+2605.30686,T,robust,injection depth
+2605.30738,T,other,MAVEN scaffold
+2606.00866,E,invocation,MORI KV offloading during tool-call idle windows
+2606.03892,T,models,PROVE
+2606.11652,T,models,IAPO small multimodal agents
+2606.13663,E,invocation,HyperTool code-block tool interface reduces model-visible steps and context
+2606.16215,T,models,PACT
+2606.16307,T,models,StateGen
+2606.16358,T,other,attested API routers
+2606.20529,T,other,LedgerAgent
+2606.26474,T,other,crosscoder feature
+2606.30251,T,models,TACO
+2607.02577,E,benchmark,validity audit of BFCL tau2 LiveMCPBench MCP-Atlas
+2607.02599,T,other,AgentLTL
+2607.03423,T,other,compositional security
+2607.04686,T,benchmark,ToolFailBench
+2607.07474,T,benchmark,severity scale
+2607.08010,E,invocation,compiles repeated SOP steps into tools; p50 latency -42%/-62%
+2607.09822,T,other,camera-first memory
+2607.10555,E,planning,TALRanker selective search calls during reranking (latency)
+2607.11098,T,other,AgentCheck workbench
+2607.11818,T,benchmark,MM-ToolSandBox
+2607.12650,T,other,EG-VAR
+2607.14158,T,other,power grid MCP
+2607.14075,T,other,VisualRepair
+2607.14285,T,benchmark,ToolAlignBench
+2607.19432,T,robust,ChainWatch
+2607.23722,T,benchmark,E-Bench
+2610.22373,T,other,authority injection
+2607.24343,T,other,conformal risk control
+2607.28225,T,other,FaithEyes
+2608.02645,T,other,verified tool calls under non-atomic failures
+2608.00218,T,other,PRISMS failure detection
+2608.00326,T,other,SOS certificates
+2609.00012,T,benchmark,MD5 long-horizon state tracking
+2608.02698,T,other,covert collusion
+2608.02217,T,models,VC-Tooler
+2608.03071,T,benchmark,parameter filling
+2608.03327,E,context,hybrid GUI-MCP; dropping redundant screenshots cuts input tokens by a third
+2608.07585,T,other,LAVE
+2608.06370,E,invocation,programmatic vs JSON tool calling across 14 models on BFCL v4
+2608.07925,T,other,EDA scripting
+2608.07955,T,other,spatial reasoning skills
+2608.08557,T,models,OpenVisTool
+2608.08907,T,models,ToolVision
+2608.10039,T,other,FlowScout
+2608.10042,T,benchmark,UserToolBench
+2608.12282,T,benchmark,VAKRA
+2608.17007,T,other,memory-bounded skill lowering
+2608.18171,E,models,looped LMs; recurrent depth at inference trades compute for performance
+2608.17275,T,robust,Web3 attack-surface survey
+2608.18524,T,models,DART-SD
+2608.19303,T,other,outcome monitors
+2608.20314,T,models,MidTool
+2608.20658,T,robust,context disclosure
+2608.21544,T,other,tool unlearning
+2608.21863,T,models,HiDiffTIR
+2608.22167,T,models,MCP-Universe RL training framework
+2608.24957,T,other,privacy minimization
+2608.26623,T,benchmark,AgentJudgeBench
+2608.27146,T,robust,SARA
+2608.28447,T,models,calculator RL
+2608.29363,E,context,per-tool context retention policy; avoids costly re-invocations
+2608.30147,T,models,CAST
+2609.00949,T,benchmark,action-class diagnostic
+2609.01736,T,other,tool primitives
+2609.02459,T,benchmark,CivBench
+2609.03493,E,models,necessary tool-evidence rewards reduce redundant calls
+2609.05587,T,benchmark,overreliance on unreliable tools
+2609.05395,T,benchmark,KOPA-Bench
+2609.06815,T,other,federated tool-routing artifacts
+2609.11999,E,invocation,bash vs typed tools vs PTC; 19-72% fewer tokens
+2609.14157,T,other,unnecessary tool availability
+2609.14758,T,benchmark,fabrication after tool failure
+2609.15066,T,models,Salesforce Koa
+2609.18849,E,invocation,tool-call progress reporting for KV-cache serving decisions
+2609.19334,E,invocation,frontend-backend tool calls in low-latency full-duplex speech models
+2609.20089,T,models,UnifiedPlayers
+2609.22573,T,other,zero-trust MCP authorization
+2609.23498,T,other,authorization drift
+2609.24115,T,benchmark,EdgeGen
+2609.25678,E,models,ToolCompass guides tool trialing to avoid wasting interaction budget
+2609.26693,T,other,serving-stack confounds
+2609.26911,T,other,TwinCheck
+2609.28585,E,other,denial-of-wallet via persistent billable tool returns in context
+2609.32021,T,robust,SilentCall backdoors
+2609.32691,T,benchmark,IPI harness validity
+2609.34195,T,benchmark,PainterBench
+2609.37453,E,planning,salvaging cached sub-results under intent revision (cost-optimal oracle)
+2609.34879,E,planning,hierarchical repair avoids costly full-sequence regeneration
+2609.34930,T,benchmark,PDEU-Bench
+2609.39450,T,robust,ActionGuard
+2610.01349,T,robust,PACE
+2610.01508,T,benchmark,OverAct
+2610.04375,T,other,intent-execution correspondence
+2610.04836,T,other,RSure-Agent
+2610.08082,T,other,POLAR
+2610.08097,T,other,corrupted tool feedback
+2610.08205,T,other,tool-calling retrieval vs vector RAG
+2610.13335,T,other,AgentTune library
+2610.14157,T,other,OpenMobile-2
+2610.14774,E,invocation,ProgAgent programmatic tool calling keeps results out of context
+2610.15884,T,benchmark,RetryBench
+2610.37679,T,robust,latent monitors
+2610.16865,T,other,safety certificates
+2610.17125,T,benchmark,ToolHACE
+2610.17619,T,other,ASR error diagnostics
+2610.18497,T,other,judge derivation gap
+2610.18616,T,other,knowledge graphs as files
+2610.21449,T,other,emergency care
+2610.22124,T,other,PROBE compliance
+2610.22301,T,robust,capability laundering
+2610.23071,T,other,tool admission safety
+2610.23093,T,other,language effects on admission
+2610.23254,T,robust,IPI in small agents
+2610.24055,T,robust,ToolRosetta
+2610.25344,T,other,TOMORI
+2610.25552,T,other,symbolic constraints
+2610.25563,E,selection,online device grounding under service cost (IoT)
+2610.27777,T,benchmark,RITE
+2610.31840,E,invocation,SpecMem speculative decoding of tool calls with live memory
+2610.31974,T,robust,decode-time provenance
+2610.33746,E,models,ProtAgent compact protein tool agent replaces frontier models
+2610.36108,T,robust,Log-To-Leak
+2610.40444,T,benchmark,prefix executability

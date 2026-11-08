@@ -1,0 +1,49 @@
+n,arxiv_id,stratum,first,coder2,coder2_reason,resolution,rationale
+8,2604.11465,C,exclude,include,context,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+10,2605.05758,B,exclude,include,models,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+11,2610.28934,C,exclude,include,benchmark,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+13,2603.18245,B,exclude,include,benchmark,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+17,2601.06937,B,exclude,include,benchmark,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+21,2608.10037,B,exclude,include,selection,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+22,2502.18980,B,exclude,include,benchmark,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+26,2608.06370,B,exclude,include,invocation,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+27,2609.14138,C,exclude,include,context,out_of_scope,tool use not central
+30,2605.00136,B,exclude,include,benchmark,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+32,2602.11304,B,exclude,include,benchmark,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+35,2609.05818,B,exclude,include,benchmark,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+36,2606.02483,A,include,exclude,no_cost_eval,retain_cited,cited for robustness of tool selection/execution; the second coder's criteria did not list robustness
+37,2605.08477,B,exclude,include,planning,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+40,2505.20016,B,exclude,include,models,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+42,2606.11652,B,exclude,include,models,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+43,2511.10037,B,exclude,include,planning,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+44,2506.23260,C,exclude,include,survey,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+45,2607.13988,C,exclude,include,models,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+46,2602.21517,B,exclude,include,models,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+47,2609.15066,B,exclude,include,models,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+49,2510.01260,B,exclude,include,benchmark,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+50,2508.04086,B,exclude,include,models,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+51,2609.17464,C,exclude,include,other,out_of_scope,tool use not central
+52,2407.13945,B,exclude,include,invocation,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+53,2606.11702,B,exclude,include,benchmark,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+54,2607.08010,B,exclude,include,invocation,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+56,2410.17950,B,exclude,include,benchmark,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+57,2606.00866,B,exclude,include,invocation,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+61,2508.02110,A,include,exclude,no_cost_eval,retain_cited,cited for robustness of tool selection/execution; the second coder's criteria did not list robustness
+62,2605.28840,B,exclude,include,benchmark,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+65,2510.24694,C,exclude,include,models,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+67,2606.16813,B,exclude,include,selection,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+68,2607.00436,B,exclude,include,benchmark,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+70,2601.04688,A,include,exclude,no_cost_eval,retain_cited,cited for robustness of tool selection/execution; the second coder's criteria did not list robustness
+72,2509.13761,B,exclude,include,models,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+76,2507.03018,B,exclude,include,models,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+77,2602.11574,C,exclude,include,other,out_of_scope,tool use not central
+78,2608.24588,C,exclude,include,models,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+79,2603.22862,B,exclude,include,survey,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+82,2608.18171,B,exclude,include,models,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+83,2607.03953,B,exclude,include,benchmark,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+84,2506.19171,B,exclude,include,models,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+86,2510.03992,B,exclude,include,benchmark,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+88,2502.00032,B,exclude,include,benchmark,in_scope_no_cost,tool-use benchmark/training/safety work without a cost bearing; outside the efficiency synthesis
+90,2607.02577,B,exclude,include,benchmark,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+93,2608.25559,B,exclude,include,planning,in_scope_cost_missed,bears on a cost-model term or the evaluation synthesis; missed by first author
+95,2504.19793,A,include,exclude,no_cost_eval,retain_cited,cited for robustness of tool selection/execution; the second coder's criteria did not list robustness

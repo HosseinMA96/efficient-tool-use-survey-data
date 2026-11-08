@@ -1,0 +1,10 @@
+n,bibkey,benchmark,metric,first,coder2,resolved,rationale
+13,lu2024toolsandbox,ToolSandbox,calls,no,yes,yes,"App. D.3 Table 11: average turn count per model by scenario category"
+17,ning2024wtueval,WTU-Eval,calls,no,yes,no,"Call Rate is the share of questions on which a tool is invoked (an abstain-type measure, coded Implicit like When2Call), not calls per task"
+19,zhong2025complexfuncbench,ComplexFuncBench,calls,no,yes,yes,"Sec. 4.3.2 Fig. 6: predicted function-calling steps per model vs shortest annotated steps"
+34,sun2026alreadyknow,When2Tool,latency,no,yes,no,"App. F Table 17 times only the probe of the authors' method (<0.7 ms), not agent latency"
+35,toolmenubench2026,ToolMenuBench,calls,yes,no,no,"Tables I-III report wrong-tool calls only (error counts, coded no as for ToolQA); steps to completion defined but not reported"
+40,kovalenko2026small,EffectWorld,latency,yes,no,no,"Simulated latency is recorded by the verifier (Sec. 3.2-3.3) but no value is reported"
+41,li2026complexmcp,ComplexMCP,money,no,yes,no,"Fig. 4(b) gives cost shares in percent from a price ratio; no currency amount"
+42,iannillo2026toolcalling,MCP-Injector,latency,no,yes,yes,"App. B: mean execution-time deltas per (stack, model), -22 s to +7 s"
+42,iannillo2026toolcalling,MCP-Injector,calls,no,yes,yes,"App. G Fig. 8(b): mean tool calls per task per stack"

@@ -2,7 +2,12 @@
 
 Supporting data for the survey *Efficient Tool Use for Agentic AI: A Survey and an Analytical Cost
 Model for Tool-Using LLM Agents* (H. Mohasel Arjomandi and A. GhaffarTehrani, preprint, November 2026).
-Survey cutoff: October 31, 2026. Archived version: [10.5281/zenodo.23938631](https://doi.org/10.5281/zenodo.23938631).
+Survey cutoff: October 31, 2026. Archived on Zenodo: [10.5281/zenodo.23938630](https://doi.org/10.5281/zenodo.23938630)
+(all versions; resolves to the latest). Version 1.0: [10.5281/zenodo.23938631](https://doi.org/10.5281/zenodo.23938631).
+
+**Version 1.1** (November 2026) adds `data/second_coder/` (two-coder screening and benchmark-audit agreement),
+`data/rescreen/` (re-screen of the uncited tool-titled records), the adjudicated `data/audit/benchmark_audit.tsv`,
+and an updated `data/checks/verify_bib_report.tsv`.
 
 This repository contains the literature harvest and screening sheet, the coverage-check decisions,
 the full-text benchmark audit, the outputs of the trace consistency check and catalog sweep, and the
@@ -19,6 +24,11 @@ Section X (benchmark audit).
 | `data/coverage/gaps.tsv` | Works cited by the 11 competing surveys and not by us | §II-D |
 | `data/coverage/gaps_decisions.tsv` | Decision (added / excluded) and category for the 120 works cited by ≥2 of them | §II-D |
 | `data/audit/benchmark_audit.tsv` | Abstract and full-text efficiency codes for 43 benchmarks, with the supporting passage | Table IV, §X |
+| `data/second_coder/screening_second_coder.csv`, `screening_first_author_rescreen.csv` | Both authors' screening decisions on the 100-record sample under the same written criteria (`criteria_and_instructions.md`) | §II-A |
+| `data/second_coder/screening_pair_adjudication.csv`, `screening_pair_score.txt` | Agreement (κ = 0.88) and the adjudication of the 5 disagreements | §II-A |
+| `data/second_coder/screening_first_author.csv`, `screening_adjudication.csv` | Earlier comparison against the first author's citation decisions (κ = 0.17) and its adjudication | §II-A |
+| `data/second_coder/audit_*.csv`, `score.py` | Benchmark-audit codes of both coders, adjudication, and the κ script | §X, Table IV |
+| `data/rescreen/` | Codes and rules of the re-screen of all 648 uncited tool-titled records | §II-C |
 | `data/traces/traces_summary.tsv`, `traces_episodes.tsv` | Per-group and per-episode results of the trace consistency check | Table III, §IV-F |
 | `data/traces/sweep_grid.tsv`, `sweep_fine.tsv`, `sweep_output.txt` | Catalog-padding sweep (k = 1, 3, 5; fine grid near the crossing) | Fig. 4, §IV-F |
 | `data/checks/cost_model_output.txt` | Output of `cost_model.py` (scenario numbers, caching, Monte Carlo) | §IV, Table II, Fig. 3 |
@@ -70,5 +80,5 @@ Scripts: MIT. Data in `data/`: CC BY 4.0. See `LICENSE`. Third-party datasets ke
 
 Please cite the survey (arXiv identifier to be added) and this repository:
 
-H. Mohasel Arjomandi, *Data and Scripts for "Efficient Tool Use for Agentic AI"*, version 1.0, Zenodo, 2026.
-DOI: [10.5281/zenodo.23938631](https://doi.org/10.5281/zenodo.23938631)
+H. Mohasel Arjomandi, *Data and Scripts for "Efficient Tool Use for Agentic AI"*, version 1.1, Zenodo, 2026.
+DOI: [10.5281/zenodo.23938630](https://doi.org/10.5281/zenodo.23938630) (all versions)

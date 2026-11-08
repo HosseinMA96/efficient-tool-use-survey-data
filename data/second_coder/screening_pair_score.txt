@@ -1,0 +1,14 @@
+Abstract screening, same criteria, n = 100 (stratified: 30 cited / 50 tool-titled uncited / 20 other)
+  agreement 95.0%, Cohen's kappa 0.882
+        coder2:  include   exclude
+  first  include        67         2
+  first  exclude         3        28
+  stratum A: 29/30 agree
+  stratum B: 48/50 agree
+  stratum C: 18/20 agree
+  disagreements:
+    # 12 2510.14453 [B] coder1=include (other)  coder2=exclude (no_cost_eval)
+    # 27 2609.14138 [C] coder1=exclude (incidental)  coder2=include (context)
+    # 36 2606.02483 [A] coder1=include (invocation)  coder2=exclude (no_cost_eval)
+    # 46 2602.21517 [B] coder1=exclude (incidental)  coder2=include (models)
+    # 51 2609.17464 [C] coder1=exclude (incidental)  coder2=include (other)

@@ -11,13 +11,13 @@ guo2024stabletoolbench	StableToolBench	2024	Caching (for stability)	-	Notes cach
 yao2024taubench	tau-bench	2024	Reliability across trials	$	Agent cost $0.38/task (gpt-4o, retail); input 95.9% of agent price
 huang2024planning2	UltraTool	2024	None	-	Dataset statistics only
 trivedi2024appworld	AppWorld	2024	None	$	Cost per example per method (e.g., GPT-4o ReAct about $0.7) at $5/1M tokens
-lu2024toolsandbox	ToolSandbox	2024	None	-	Dataset statistics only (avg. turns)
+lu2024toolsandbox	ToolSandbox	2024	None	C	Average turn count per model (App. D.3, Table 11); second-coder adjudication
 basu2024nestful	NESTFUL	2024	None	-	No efficiency metric
 ye2024tooleyes	ToolEyes	2024	None	-	Tools costing >$0.50/call excluded at construction; no agent metric
 ye2024rotbench	RoTBench	2024	None	-	No efficiency metric
 ning2024wtueval	WTU-Eval	2024	Implicit (incorrect use)	-	No efficiency metric
 wang2024mtubench	MTU-Bench	2024	Cheap scoring (no GPT judges)	-	Evaluation cost only (no GPT API needed)
-zhong2025complexfuncbench	ComplexFuncBench	2025	Long context (stress)	-	No efficiency metric
+zhong2025complexfuncbench	ComplexFuncBench	2025	Long context (stress)	C	Predicted function-calling steps per model vs. shortest steps (Sec. 4.3.2, Fig. 6); second-coder adjudication
 ye2025toolhop	ToolHop	2025	None	-	No efficiency metric
 kate2025longfunceval	LongFuncEval	2025	Context length (stress)	-	Context length as difficulty variable only
 he2025trajectbench	TRAJECT-Bench	2025	None	-	Mentions redundant calls inflate latency and cost; no metric
@@ -33,12 +33,12 @@ wu2025mcpmark	MCPMark	2025	Turns and calls per task	$, Tk, C	Table 9: per-task i
 li2025toolathlon	Toolathlon	2025	Turns per task	$, Tk, C	Average cost per task (with prompt caching), output tokens, turns
 bandi2026mcpatlas	MCP-Atlas	2026	None	L	Fig. 2: mean wall-clock trajectory time per task vs. pass rate
 sun2026alreadyknow	When2Tool	2026	Unnecessary calls	C	Tool calls and accuracy cost per saved call
-toolmenubench2026	ToolMenuBench	2026	Tool exposure; cost and risk	Tk, C	Token usage, visible-tool count, wrong-tool calls
+toolmenubench2026	ToolMenuBench	2026	Tool exposure; cost and risk	Tk	Token usage per task (Tables I-III); wrong-tool calls are error counts, not calls per task (second-coder adjudication)
 rideway2026	RideWay	2026	Turns, redundant calls	C	Efficiency utility over turns and tool calls; explicitly excludes latency and money
 toolbottleneck2026	ToolBottleneckBench	2026	Harness budgets	$, Tk, L, C	USD per 1,000 conditions; tokens per episode; duration (s); model requests
 cao2026simulcost	SimulCost	2026	Tool-use (simulation) cost	L, Tool	Tool cost in FLOPs; one simulator by wall clock
 mishra2026does	MERIT	2026	Tokens and dollars per memory operation	$, Tk	Token and dollar metering of every memory operation
-kovalenko2026small	EffectWorld	2026	Call efficiency	Tk, C, L	Output and prompt tokens per task; calls and turns; simulated latency
+kovalenko2026small	EffectWorld	2026	Call efficiency	Tk, C	Output and prompt tokens per task; calls and turns; simulated latency recorded but not reported (second-coder adjudication)
 li2026complexmcp	ComplexMCP	2026	None (finds retrieval saturation)	Tk, C	Tool-call statistics and token consumption, incl. cached prompt tokens
-iannillo2026toolcalling	MCP-Injector	2026	None	Tk	Output tokens per cell
+iannillo2026toolcalling	MCP-Injector	2026	None	Tk, C, L	Output tokens per cell; mean tool calls per task (App. G, Fig. 8b); execution-time deltas per stack and model (App. B); second-coder adjudication
 yusuf2026sentrybench	SentryBench	2026	Asymmetric deployment cost	-	Deployment-cost asymmetry is conceptual; no resource metric
